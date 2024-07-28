@@ -26,7 +26,7 @@ with open('sleeper_league_1048178156026433536_data.json', 'r') as file:
 ineligible_teams = check_reserve_eligibility(league_data)
 
 # Save the updated JSON data
-with open('sleeper_league_1048178156026433536_data_updated.json', 'w') as file:
+with open('sleeper_league_1048178156026433536.json', 'w') as file:
     json.dump(league_data, file, indent=2)
 
 # Report the results
