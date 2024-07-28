@@ -19,7 +19,7 @@ def check_reserve_eligibility(data):
 
 
 # Load the JSON data
-with open('sleeper_league_1048178156026433536_data.json', 'r') as file:
+with open('sleeper_league_data.json', 'r') as file:
     league_data = json.load(file)
 
 # Check for ineligible players and update JSON
