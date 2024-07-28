@@ -1,10 +1,10 @@
 import requests
 import json
-from typing import Dict, List, Any
+import os
+from typing import Dict, Any
 
 LEAGUE_ID = "1048178156026433536"
 BASE_URL = "https://api.sleeper.app/v1"
-
 
 def fetch_sleeper_data(league_id: str) -> Dict[str, Any]:
     endpoints = {
@@ -26,7 +26,6 @@ def fetch_sleeper_data(league_id: str) -> Dict[str, Any]:
     data["players"] = response.json()
 
     return data
-
 
 def organize_rosters_by_team(data: Dict[str, Any]) -> Dict[str, Dict[str, Any]]:
     organized_data = {}
@@ -59,7 +58,6 @@ def organize_rosters_by_team(data: Dict[str, Any]) -> Dict[str, Dict[str, Any]]:
 
     return organized_data
 
-
 def main():
     try:
         print("Fetching league data...")
@@ -90,6 +88,9 @@ def main():
             print(f"  Taxi: {len(team_data['taxi'])}")
             print()
 
+        # Print the current working directory for debugging (optional)
+        print(f"Current working directory: {os.getcwd()}")
+
         # Save the data to a JSON file
         with open(f"sleeper_league_{LEAGUE_ID}_data.json", "w") as f:
             json.dump(organized_rosters, f, indent=2)
@@ -105,7 +106,6 @@ def main():
         print(f"An unexpected error occurred: {e}")
         import traceback
         traceback.print_exc()
-
 
 if __name__ == "__main__":
     main()
