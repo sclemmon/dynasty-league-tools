@@ -92,7 +92,7 @@ def main():
         print(f"Current working directory: {os.getcwd()}")
 
         # Save the data to a JSON file
-        with open(f"sleeper_league_{LEAGUE_ID}_data.json", "w") as f:
+        with open(f"sleeper_league_data.json", "w") as f:
             json.dump(organized_rosters, f, indent=2)
         print(f"Data saved to sleeper_league_{LEAGUE_ID}_data.json")
 
