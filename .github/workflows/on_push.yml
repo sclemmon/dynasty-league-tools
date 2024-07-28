@@ -26,3 +26,9 @@ jobs:
 
     - name: Run script
       run: python team_info_json.py
+
+    - name: Upload artifact
+      uses: actions/upload-artifact@v2
+      with:
+        name: sleeper_league_data
+        path: sleeper_league_1048178156026433536_data.json
