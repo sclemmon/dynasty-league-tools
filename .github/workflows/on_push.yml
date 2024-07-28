@@ -25,7 +25,7 @@ jobs:
         pip install requests
 
     - name: Run first script
-      run: python first_script.py
+      run: python team_info_json.py
 
     - name: Check for changes
       id: changes
@@ -67,7 +67,7 @@ jobs:
         pip install requests
 
     - name: Run second script
-      run: python second_script.py
+      run: python ir_scan.py
 
     - name: Check for changes
       id: changes
