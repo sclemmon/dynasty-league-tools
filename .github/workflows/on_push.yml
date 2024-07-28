@@ -32,3 +32,13 @@ jobs:
       with:
         name: sleeper_league_data
         path: sleeper_league_1048178156026433536_data.json
+      
+    - name: Commit and push changes
+      run: |
+        git config --global user.name 'github-actions'
+        git config --global user.email 'github-actions@github.com'
+        git add sleeper_league_1048178156026433536_data.json
+        git commit -m 'Update sleeper league data'
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
