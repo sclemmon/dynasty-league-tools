@@ -1,0 +1,42 @@
+{
+  "sclemmon": {
+    "owner_id": "476615957486235648",
+    "roster_id": 1,
+    "open_spots": 0
+  },
+  "SkinWagon": {
+    "owner_id": "349805178263764992",
+    "roster_id": 2,
+    "open_spots": 1
+  },
+  "migbeech": {
+    "owner_id": "755118310961631232",
+    "roster_id": 3,
+    "open_spots": 2
+  },
+  "andrewfantasyy": {
+    "owner_id": "461578674852851712",
+    "roster_id": 4,
+    "open_spots": 2
+  },
+  "kletcher": {
+    "owner_id": "999403842389311488",
+    "roster_id": 5,
+    "open_spots": 1
+  },
+  "LukeWiz": {
+    "owner_id": "1000097687890317312",
+    "roster_id": 6,
+    "open_spots": 2
+  },
+  "RThelen": {
+    "owner_id": "755111255970275328",
+    "roster_id": 7,
+    "open_spots": 3
+  },
+  "cstroh": {
+    "owner_id": "545729168853360640",
+    "roster_id": 8,
+    "open_spots": 1
+  }
+}
