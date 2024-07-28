@@ -31,7 +31,7 @@ jobs:
       run: |
         git config --global user.name 'github-actions'
         git config --global user.email 'github-actions@github.com'
-        git add sleeper_league_1048178156026433536_data.json
+        git add sleeper_league_data.json
         if git diff-index --quiet HEAD; then
           echo "::set-output name=changes_detected::false"
         else
@@ -73,7 +73,7 @@ jobs:
       run: |
         git config --global user.name 'github-actions'
         git config --global user.email 'github-actions@github.com'
-        git add sleeper_league_1048178156026433536_data.json
+        git add sleeper_league_data.json
         if git diff-index --quiet HEAD; then
           echo "::set-output name=changes_detected::false"
         else
