@@ -25,4 +25,4 @@ jobs:
         # pip install requests
 
     - name: Run script
-      run: python ir_scan.py
+      run: python team_info_json.py
