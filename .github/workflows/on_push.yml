@@ -68,7 +68,7 @@ jobs:
       run: |
         git config --global user.name 'github-actions'
         git config --global user.email 'github-actions@github.com'
-        git add output_file.json  # Replace with your actual file
+        git add sleeper_league_1048178156026433536_data.json  # Replace with your actual file
         git commit -m 'Update output file after second script'
         git push
       env:
