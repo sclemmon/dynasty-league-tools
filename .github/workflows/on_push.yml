@@ -23,7 +23,6 @@ jobs:
         python -m pip install --upgrade pip
         # Add your dependencies here, e.g.,
         pip install requests
-        pip install json
 
     - name: Run script
       run: python team_info_json.py
