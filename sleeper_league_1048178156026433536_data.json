@@ -54,12 +54,14 @@
       {
         "player_id": "5870",
         "full_name": "Daniel Jones",
-        "injury_status": null
+        "injury_status": null,
+        "is_eligible_for_reserve": false
       },
       {
         "player_id": "9220",
         "full_name": "Evan Hull",
-        "injury_status": null
+        "injury_status": null,
+        "is_eligible_for_reserve": false
       }
     ],
     "taxi": [
@@ -176,12 +178,14 @@
       {
         "player_id": "4017",
         "full_name": "Deshaun Watson",
-        "injury_status": null
+        "injury_status": null,
+        "is_eligible_for_reserve": false
       },
       {
         "player_id": "8172",
         "full_name": "Greg Dulcich",
-        "injury_status": null
+        "injury_status": null,
+        "is_eligible_for_reserve": false
       }
     ],
     "taxi": [
@@ -242,12 +246,14 @@
       {
         "player_id": "5844",
         "full_name": "T.J. Hockenson",
-        "injury_status": "PUP"
+        "injury_status": "PUP",
+        "is_eligible_for_reserve": true
       },
       {
         "player_id": "6938",
         "full_name": "Cam Akers",
-        "injury_status": "Questionable"
+        "injury_status": "Questionable",
+        "is_eligible_for_reserve": false
       }
     ],
     "taxi": [
@@ -309,12 +315,14 @@
       {
         "player_id": "4988",
         "full_name": "Nick Chubb",
-        "injury_status": "PUP"
+        "injury_status": "PUP",
+        "is_eligible_for_reserve": true
       },
       {
         "player_id": "6806",
         "full_name": "J.K. Dobbins",
-        "injury_status": null
+        "injury_status": null,
+        "is_eligible_for_reserve": false
       }
     ],
     "taxi": [
@@ -483,12 +491,14 @@
       {
         "player_id": "10222",
         "full_name": "Jayden Reed",
-        "injury_status": null
+        "injury_status": null,
+        "is_eligible_for_reserve": false
       },
       {
         "player_id": "9511",
         "full_name": "Keaton Mitchell",
-        "injury_status": "PUP"
+        "injury_status": "PUP",
+        "is_eligible_for_reserve": true
       }
     ],
     "taxi": [
