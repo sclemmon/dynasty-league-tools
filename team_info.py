@@ -1,6 +1,5 @@
 import requests
 import json
-import os
 from typing import Dict, Any
 
 LEAGUE_ID = "1048178156026433536"
@@ -47,13 +46,39 @@ def organize_rosters_by_team(data: Dict[str, Any]) -> Dict[str, Dict[str, Any]]:
                     "injury_status": player_info.get('injury_status', 'Unknown')
                 })
 
+        bench_players = []
+        starters_list = roster.get('starters', [])
+        players_list = roster.get('players', [])
+        taxi_list = roster.get('taxi', [])
+
+        for player_id in players_list:
+            if (starters_list is None or player_id not in starters_list) and \
+               (reserve_list is None or player_id not in reserve_list) and \
+               (taxi_list is None or player_id not in taxi_list):
+                player_info = players_data.get(player_id, {})
+                bench_players.append({
+                    "player_id": player_id,
+                    "full_name": player_info.get('full_name', 'Unknown')
+                })
+
         organized_data[team_name] = {
             "owner_id": user_id,
             "roster_id": roster['roster_id'],
-            "players": roster.get('players', []),
-            "starters": roster.get('starters', []),
+            "players": [{
+                "player_id": player_id,
+                "full_name": players_data.get(player_id, {}).get('full_name', 'Unknown')
+            } for player_id in players_list],
+            "starters": [{
+                "player_id": player_id,
+                "full_name": players_data.get(player_id, {}).get('full_name', 'Unknown')
+            } for player_id in starters_list or []],
             "reserve": reserve_players,
-            "taxi": roster.get('taxi', [])
+            "bench": bench_players,
+            "bench_count": len(bench_players),
+            "taxi": [{
+                "player_id": player_id,
+                "full_name": players_data.get(player_id, {}).get('full_name', 'Unknown')
+            } for player_id in taxi_list or []]
         }
 
     return organized_data
@@ -85,14 +110,17 @@ def main():
             for player in team_data['reserve']:
                 print(f"    - {player['full_name']} (Status: {player['injury_status']})")
 
+            print(f"  Bench: {team_data['bench_count']}")
+            for player in team_data['bench']:
+                print(f"    - {player['full_name']} (ID: {player['player_id']})")
+
             print(f"  Taxi: {len(team_data['taxi'])}")
+            for player in team_data['taxi']:
+                print(f"    - {player['full_name']} (ID: {player['player_id']})")
             print()
 
-        # Print the current working directory for debugging (optional)
-        print(f"Current working directory: {os.getcwd()}")
-
         # Save the data to a JSON file
-        with open(f"sleeper_league_data.json", "w") as f:
+        with open(f"sleeper_league_{LEAGUE_ID}_data.json", "w") as f:
             json.dump(organized_rosters, f, indent=2)
         print(f"Data saved to sleeper_league_{LEAGUE_ID}_data.json")
 
