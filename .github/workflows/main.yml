@@ -23,6 +23,7 @@ jobs:
         python -m pip install --upgrade pip
         # Add your dependencies here, e.g.,
         pip install requests
+        pip install pytz
 
     - name: Run first script
       run: python team_info.py
