@@ -1,2043 +1,2042 @@
 {
-  "sclemmon": {
-    "owner_id": "476615957486235648",
-    "roster_id": 1,
-    "players": [
-      {
-        "player_id": "10229",
-        "full_name": "Rashee Rice"
-      },
-      {
-        "player_id": "10236",
-        "full_name": "Dalton Kincaid"
-      },
-      {
-        "player_id": "10866",
-        "full_name": "Aidan O'Connell"
-      },
-      {
-        "player_id": "3257",
-        "full_name": "Jacoby Brissett"
-      },
-      {
-        "player_id": "4029",
-        "full_name": "Dalvin Cook"
-      },
-      {
-        "player_id": "4149",
-        "full_name": "Jamaal Williams"
-      },
-      {
-        "player_id": "5284",
-        "full_name": "Jeff Wilson"
-      },
-      {
-        "player_id": "5849",
-        "full_name": "Kyler Murray"
-      },
-      {
-        "player_id": "5850",
-        "full_name": "Josh Jacobs"
-      },
-      {
-        "player_id": "5854",
-        "full_name": "Drew Lock"
-      },
-      {
-        "player_id": "5870",
-        "full_name": "Daniel Jones"
-      },
-      {
-        "player_id": "6136",
-        "full_name": "Jarrett Stidham"
-      },
-      {
-        "player_id": "6770",
-        "full_name": "Joe Burrow"
-      },
-      {
-        "player_id": "6803",
-        "full_name": "Brandon Aiyuk"
-      },
-      {
-        "player_id": "6820",
-        "full_name": "Clyde Edwards-Helaire"
-      },
-      {
-        "player_id": "7525",
-        "full_name": "DeVonta Smith"
-      },
-      {
-        "player_id": "7561",
-        "full_name": "Elijah Mitchell"
-      },
-      {
-        "player_id": "8119",
-        "full_name": "Jahan Dotson"
-      },
-      {
-        "player_id": "8144",
-        "full_name": "Chris Olave"
-      },
-      {
-        "player_id": "8146",
-        "full_name": "Garrett Wilson"
-      },
-      {
-        "player_id": "8155",
-        "full_name": "Breece Hall"
-      },
-      {
-        "player_id": "8221",
-        "full_name": "Keaontay Ingram"
-      },
-      {
-        "player_id": "8408",
-        "full_name": "Jordan Mason"
-      },
-      {
-        "player_id": "9220",
-        "full_name": "Evan Hull"
-      },
-      {
-        "player_id": "9224",
-        "full_name": "Chase Brown"
-      },
-      {
-        "player_id": "9227",
-        "full_name": "Israel Abanikanda"
-      },
-      {
-        "player_id": "9481",
-        "full_name": "Luke Musgrave"
-      },
-      {
-        "player_id": "9482",
-        "full_name": "Michael Mayer"
-      },
-      {
-        "player_id": "9500",
-        "full_name": "Josh Downs"
-      },
-      {
-        "player_id": "9501",
-        "full_name": "DeMario Douglas"
-      },
-      {
-        "player_id": "9508",
-        "full_name": "Tyjae Spears"
-      },
-      {
-        "player_id": "9757",
-        "full_name": "Kendre Miller"
-      }
-    ],
-    "starters": [
-      {
-        "player_id": "5849",
-        "full_name": "Kyler Murray"
-      },
-      {
-        "player_id": "8155",
-        "full_name": "Breece Hall"
-      },
-      {
-        "player_id": "9508",
-        "full_name": "Tyjae Spears"
-      },
-      {
-        "player_id": "10229",
-        "full_name": "Rashee Rice"
-      },
-      {
-        "player_id": "6803",
-        "full_name": "Brandon Aiyuk"
-      },
-      {
-        "player_id": "8146",
-        "full_name": "Garrett Wilson"
-      },
-      {
-        "player_id": "9482",
-        "full_name": "Michael Mayer"
-      },
-      {
-        "player_id": "7525",
-        "full_name": "DeVonta Smith"
-      },
-      {
-        "player_id": "8119",
-        "full_name": "Jahan Dotson"
-      },
-      {
-        "player_id": "9501",
-        "full_name": "DeMario Douglas"
-      },
-      {
-        "player_id": "8144",
-        "full_name": "Chris Olave"
-      },
-      {
-        "player_id": "6136",
-        "full_name": "Jarrett Stidham"
-      }
-    ],
-    "reserve": [
-      {
-        "player_id": "5870",
-        "full_name": "Daniel Jones",
-        "injury_status": null,
-        "is_eligible_for_reserve": false
-      },
-      {
-        "player_id": "9220",
-        "full_name": "Evan Hull",
-        "injury_status": null,
-        "is_eligible_for_reserve": false
-      }
-    ],
-    "bench": [
-      {
-        "player_id": "3257",
-        "full_name": "Jacoby Brissett"
-      },
-      {
-        "player_id": "4029",
-        "full_name": "Dalvin Cook"
-      },
-      {
-        "player_id": "4149",
-        "full_name": "Jamaal Williams"
-      },
-      {
-        "player_id": "5284",
-        "full_name": "Jeff Wilson"
-      },
-      {
-        "player_id": "5850",
-        "full_name": "Josh Jacobs"
-      },
-      {
-        "player_id": "5854",
-        "full_name": "Drew Lock"
-      },
-      {
-        "player_id": "6770",
-        "full_name": "Joe Burrow"
-      },
-      {
-        "player_id": "6820",
-        "full_name": "Clyde Edwards-Helaire"
-      },
-      {
-        "player_id": "7561",
-        "full_name": "Elijah Mitchell"
-      },
-      {
-        "player_id": "8221",
-        "full_name": "Keaontay Ingram"
-      },
-      {
-        "player_id": "8408",
-        "full_name": "Jordan Mason"
-      },
-      {
-        "player_id": "9224",
-        "full_name": "Chase Brown"
-      },
-      {
-        "player_id": "9227",
-        "full_name": "Israel Abanikanda"
-      },
-      {
-        "player_id": "9481",
-        "full_name": "Luke Musgrave"
-      },
-      {
-        "player_id": "9757",
-        "full_name": "Kendre Miller"
-      }
-    ],
-    "bench_count": 15,
-    "taxi": [
-      {
-        "player_id": "10236",
-        "full_name": "Dalton Kincaid"
-      },
-      {
-        "player_id": "10866",
-        "full_name": "Aidan O'Connell"
-      },
-      {
-        "player_id": "9500",
-        "full_name": "Josh Downs"
-      }
-    ]
+  "rosters": {
+    "sclemmon": {
+      "owner_id": "476615957486235648",
+      "roster_id": 1,
+      "players": [
+        {
+          "player_id": "10229",
+          "full_name": "Rashee Rice"
+        },
+        {
+          "player_id": "10236",
+          "full_name": "Dalton Kincaid"
+        },
+        {
+          "player_id": "10866",
+          "full_name": "Aidan O'Connell"
+        },
+        {
+          "player_id": "3257",
+          "full_name": "Jacoby Brissett"
+        },
+        {
+          "player_id": "4029",
+          "full_name": "Dalvin Cook"
+        },
+        {
+          "player_id": "4149",
+          "full_name": "Jamaal Williams"
+        },
+        {
+          "player_id": "5284",
+          "full_name": "Jeff Wilson"
+        },
+        {
+          "player_id": "5849",
+          "full_name": "Kyler Murray"
+        },
+        {
+          "player_id": "5850",
+          "full_name": "Josh Jacobs"
+        },
+        {
+          "player_id": "5854",
+          "full_name": "Drew Lock"
+        },
+        {
+          "player_id": "5870",
+          "full_name": "Daniel Jones"
+        },
+        {
+          "player_id": "6136",
+          "full_name": "Jarrett Stidham"
+        },
+        {
+          "player_id": "6770",
+          "full_name": "Joe Burrow"
+        },
+        {
+          "player_id": "6803",
+          "full_name": "Brandon Aiyuk"
+        },
+        {
+          "player_id": "6820",
+          "full_name": "Clyde Edwards-Helaire"
+        },
+        {
+          "player_id": "7525",
+          "full_name": "DeVonta Smith"
+        },
+        {
+          "player_id": "7561",
+          "full_name": "Elijah Mitchell"
+        },
+        {
+          "player_id": "8119",
+          "full_name": "Jahan Dotson"
+        },
+        {
+          "player_id": "8144",
+          "full_name": "Chris Olave"
+        },
+        {
+          "player_id": "8146",
+          "full_name": "Garrett Wilson"
+        },
+        {
+          "player_id": "8155",
+          "full_name": "Breece Hall"
+        },
+        {
+          "player_id": "8221",
+          "full_name": "Keaontay Ingram"
+        },
+        {
+          "player_id": "8408",
+          "full_name": "Jordan Mason"
+        },
+        {
+          "player_id": "9220",
+          "full_name": "Evan Hull"
+        },
+        {
+          "player_id": "9224",
+          "full_name": "Chase Brown"
+        },
+        {
+          "player_id": "9227",
+          "full_name": "Israel Abanikanda"
+        },
+        {
+          "player_id": "9481",
+          "full_name": "Luke Musgrave"
+        },
+        {
+          "player_id": "9482",
+          "full_name": "Michael Mayer"
+        },
+        {
+          "player_id": "9500",
+          "full_name": "Josh Downs"
+        },
+        {
+          "player_id": "9501",
+          "full_name": "DeMario Douglas"
+        },
+        {
+          "player_id": "9508",
+          "full_name": "Tyjae Spears"
+        },
+        {
+          "player_id": "9757",
+          "full_name": "Kendre Miller"
+        }
+      ],
+      "starters": [
+        {
+          "player_id": "5849",
+          "full_name": "Kyler Murray"
+        },
+        {
+          "player_id": "8155",
+          "full_name": "Breece Hall"
+        },
+        {
+          "player_id": "9508",
+          "full_name": "Tyjae Spears"
+        },
+        {
+          "player_id": "10229",
+          "full_name": "Rashee Rice"
+        },
+        {
+          "player_id": "6803",
+          "full_name": "Brandon Aiyuk"
+        },
+        {
+          "player_id": "8146",
+          "full_name": "Garrett Wilson"
+        },
+        {
+          "player_id": "9482",
+          "full_name": "Michael Mayer"
+        },
+        {
+          "player_id": "7525",
+          "full_name": "DeVonta Smith"
+        },
+        {
+          "player_id": "8119",
+          "full_name": "Jahan Dotson"
+        },
+        {
+          "player_id": "9501",
+          "full_name": "DeMario Douglas"
+        },
+        {
+          "player_id": "8144",
+          "full_name": "Chris Olave"
+        },
+        {
+          "player_id": "6136",
+          "full_name": "Jarrett Stidham"
+        }
+      ],
+      "reserve": [
+        {
+          "player_id": "5870",
+          "full_name": "Daniel Jones",
+          "injury_status": null
+        },
+        {
+          "player_id": "9220",
+          "full_name": "Evan Hull",
+          "injury_status": null
+        }
+      ],
+      "bench": [
+        {
+          "player_id": "3257",
+          "full_name": "Jacoby Brissett"
+        },
+        {
+          "player_id": "4029",
+          "full_name": "Dalvin Cook"
+        },
+        {
+          "player_id": "4149",
+          "full_name": "Jamaal Williams"
+        },
+        {
+          "player_id": "5284",
+          "full_name": "Jeff Wilson"
+        },
+        {
+          "player_id": "5850",
+          "full_name": "Josh Jacobs"
+        },
+        {
+          "player_id": "5854",
+          "full_name": "Drew Lock"
+        },
+        {
+          "player_id": "6770",
+          "full_name": "Joe Burrow"
+        },
+        {
+          "player_id": "6820",
+          "full_name": "Clyde Edwards-Helaire"
+        },
+        {
+          "player_id": "7561",
+          "full_name": "Elijah Mitchell"
+        },
+        {
+          "player_id": "8221",
+          "full_name": "Keaontay Ingram"
+        },
+        {
+          "player_id": "8408",
+          "full_name": "Jordan Mason"
+        },
+        {
+          "player_id": "9224",
+          "full_name": "Chase Brown"
+        },
+        {
+          "player_id": "9227",
+          "full_name": "Israel Abanikanda"
+        },
+        {
+          "player_id": "9481",
+          "full_name": "Luke Musgrave"
+        },
+        {
+          "player_id": "9757",
+          "full_name": "Kendre Miller"
+        }
+      ],
+      "bench_count": 15,
+      "taxi": [
+        {
+          "player_id": "10236",
+          "full_name": "Dalton Kincaid"
+        },
+        {
+          "player_id": "10866",
+          "full_name": "Aidan O'Connell"
+        },
+        {
+          "player_id": "9500",
+          "full_name": "Josh Downs"
+        }
+      ]
+    },
+    "SkinWagon": {
+      "owner_id": "349805178263764992",
+      "roster_id": 2,
+      "players": [
+        {
+          "player_id": "10223",
+          "full_name": "Eric Gray"
+        },
+        {
+          "player_id": "10232",
+          "full_name": "Michael Wilson"
+        },
+        {
+          "player_id": "1166",
+          "full_name": "Kirk Cousins"
+        },
+        {
+          "player_id": "1466",
+          "full_name": "Travis Kelce"
+        },
+        {
+          "player_id": "2216",
+          "full_name": "Mike Evans"
+        },
+        {
+          "player_id": "4035",
+          "full_name": "Alvin Kamara"
+        },
+        {
+          "player_id": "4892",
+          "full_name": "Baker Mayfield"
+        },
+        {
+          "player_id": "5846",
+          "full_name": "DK Metcalf"
+        },
+        {
+          "player_id": "5927",
+          "full_name": "Terry McLaurin"
+        },
+        {
+          "player_id": "6783",
+          "full_name": "Jerry Jeudy"
+        },
+        {
+          "player_id": "6790",
+          "full_name": "D'Andre Swift"
+        },
+        {
+          "player_id": "6794",
+          "full_name": "Justin Jefferson"
+        },
+        {
+          "player_id": "6801",
+          "full_name": "Tee Higgins"
+        },
+        {
+          "player_id": "6828",
+          "full_name": "AJ Dillon"
+        },
+        {
+          "player_id": "7553",
+          "full_name": "Kyle Pitts"
+        },
+        {
+          "player_id": "7591",
+          "full_name": "Justin Fields"
+        },
+        {
+          "player_id": "7607",
+          "full_name": "Michael Carter"
+        },
+        {
+          "player_id": "7608",
+          "full_name": "Khalil Herbert"
+        },
+        {
+          "player_id": "8121",
+          "full_name": "Romeo Doubs"
+        },
+        {
+          "player_id": "8126",
+          "full_name": "Wan'Dale Robinson"
+        },
+        {
+          "player_id": "8130",
+          "full_name": "Trey McBride"
+        },
+        {
+          "player_id": "8131",
+          "full_name": "Isaiah Likely"
+        },
+        {
+          "player_id": "8135",
+          "full_name": "Treylon Burks"
+        },
+        {
+          "player_id": "8167",
+          "full_name": "Christian Watson"
+        },
+        {
+          "player_id": "8230",
+          "full_name": "Ty Chandler"
+        },
+        {
+          "player_id": "9479",
+          "full_name": "Darnell Washington"
+        },
+        {
+          "player_id": "9502",
+          "full_name": "Tank Dell"
+        },
+        {
+          "player_id": "9758",
+          "full_name": "C.J. Stroud"
+        },
+        {
+          "player_id": "9999",
+          "full_name": "Will Levis"
+        }
+      ],
+      "starters": [
+        {
+          "player_id": "9758",
+          "full_name": "C.J. Stroud"
+        },
+        {
+          "player_id": "4035",
+          "full_name": "Alvin Kamara"
+        },
+        {
+          "player_id": "6790",
+          "full_name": "D'Andre Swift"
+        },
+        {
+          "player_id": "5846",
+          "full_name": "DK Metcalf"
+        },
+        {
+          "player_id": "2216",
+          "full_name": "Mike Evans"
+        },
+        {
+          "player_id": "6794",
+          "full_name": "Justin Jefferson"
+        },
+        {
+          "player_id": "1466",
+          "full_name": "Travis Kelce"
+        },
+        {
+          "player_id": "6801",
+          "full_name": "Tee Higgins"
+        },
+        {
+          "player_id": "8130",
+          "full_name": "Trey McBride"
+        },
+        {
+          "player_id": "5927",
+          "full_name": "Terry McLaurin"
+        },
+        {
+          "player_id": "8131",
+          "full_name": "Isaiah Likely"
+        },
+        {
+          "player_id": "1166",
+          "full_name": "Kirk Cousins"
+        }
+      ],
+      "reserve": [],
+      "bench": [
+        {
+          "player_id": "10232",
+          "full_name": "Michael Wilson"
+        },
+        {
+          "player_id": "4892",
+          "full_name": "Baker Mayfield"
+        },
+        {
+          "player_id": "6783",
+          "full_name": "Jerry Jeudy"
+        },
+        {
+          "player_id": "6828",
+          "full_name": "AJ Dillon"
+        },
+        {
+          "player_id": "7553",
+          "full_name": "Kyle Pitts"
+        },
+        {
+          "player_id": "7591",
+          "full_name": "Justin Fields"
+        },
+        {
+          "player_id": "7607",
+          "full_name": "Michael Carter"
+        },
+        {
+          "player_id": "7608",
+          "full_name": "Khalil Herbert"
+        },
+        {
+          "player_id": "8121",
+          "full_name": "Romeo Doubs"
+        },
+        {
+          "player_id": "8126",
+          "full_name": "Wan'Dale Robinson"
+        },
+        {
+          "player_id": "8135",
+          "full_name": "Treylon Burks"
+        },
+        {
+          "player_id": "8167",
+          "full_name": "Christian Watson"
+        },
+        {
+          "player_id": "8230",
+          "full_name": "Ty Chandler"
+        },
+        {
+          "player_id": "9502",
+          "full_name": "Tank Dell"
+        }
+      ],
+      "bench_count": 14,
+      "taxi": [
+        {
+          "player_id": "10223",
+          "full_name": "Eric Gray"
+        },
+        {
+          "player_id": "9479",
+          "full_name": "Darnell Washington"
+        },
+        {
+          "player_id": "9999",
+          "full_name": "Will Levis"
+        }
+      ]
+    },
+    "migbeech": {
+      "owner_id": "755118310961631232",
+      "roster_id": 3,
+      "players": [
+        {
+          "player_id": "10218",
+          "full_name": "Xavier Hutchinson"
+        },
+        {
+          "player_id": "10857",
+          "full_name": "Stetson Bennett"
+        },
+        {
+          "player_id": "1234",
+          "full_name": "Russell Wilson"
+        },
+        {
+          "player_id": "1426",
+          "full_name": "DeAndre Hopkins"
+        },
+        {
+          "player_id": "2133",
+          "full_name": "Davante Adams"
+        },
+        {
+          "player_id": "2251",
+          "full_name": "Logan Thomas"
+        },
+        {
+          "player_id": "2309",
+          "full_name": "Amari Cooper"
+        },
+        {
+          "player_id": "2505",
+          "full_name": "Darren Waller"
+        },
+        {
+          "player_id": "4017",
+          "full_name": "Deshaun Watson"
+        },
+        {
+          "player_id": "4034",
+          "full_name": "Christian McCaffrey"
+        },
+        {
+          "player_id": "4040",
+          "full_name": "JuJu Smith-Schuster"
+        },
+        {
+          "player_id": "4080",
+          "full_name": "Zay Jones"
+        },
+        {
+          "player_id": "4199",
+          "full_name": "Aaron Jones"
+        },
+        {
+          "player_id": "421",
+          "full_name": "Matthew Stafford"
+        },
+        {
+          "player_id": "4951",
+          "full_name": "DJ Chark"
+        },
+        {
+          "player_id": "4983",
+          "full_name": "DJ Moore"
+        },
+        {
+          "player_id": "4984",
+          "full_name": "Josh Allen"
+        },
+        {
+          "player_id": "5001",
+          "full_name": "Dalton Schultz"
+        },
+        {
+          "player_id": "5012",
+          "full_name": "Mark Andrews"
+        },
+        {
+          "player_id": "5848",
+          "full_name": "Hollywood Brown"
+        },
+        {
+          "player_id": "5859",
+          "full_name": "A.J. Brown"
+        },
+        {
+          "player_id": "6130",
+          "full_name": "Devin Singletary"
+        },
+        {
+          "player_id": "7045",
+          "full_name": "Joshua Kelley"
+        },
+        {
+          "player_id": "7066",
+          "full_name": "K.J. Osborn"
+        },
+        {
+          "player_id": "7528",
+          "full_name": "Najee Harris"
+        },
+        {
+          "player_id": "7594",
+          "full_name": "Chuba Hubbard"
+        },
+        {
+          "player_id": "8150",
+          "full_name": "Kyren Williams"
+        },
+        {
+          "player_id": "8172",
+          "full_name": "Greg Dulcich"
+        },
+        {
+          "player_id": "8210",
+          "full_name": "Chigoziem Okonkwo"
+        },
+        {
+          "player_id": "9226",
+          "full_name": "De'Von Achane"
+        }
+      ],
+      "starters": [
+        {
+          "player_id": "4984",
+          "full_name": "Josh Allen"
+        },
+        {
+          "player_id": "4034",
+          "full_name": "Christian McCaffrey"
+        },
+        {
+          "player_id": "6130",
+          "full_name": "Devin Singletary"
+        },
+        {
+          "player_id": "5859",
+          "full_name": "A.J. Brown"
+        },
+        {
+          "player_id": "4983",
+          "full_name": "DJ Moore"
+        },
+        {
+          "player_id": "7066",
+          "full_name": "K.J. Osborn"
+        },
+        {
+          "player_id": "2505",
+          "full_name": "Darren Waller"
+        },
+        {
+          "player_id": "8150",
+          "full_name": "Kyren Williams"
+        },
+        {
+          "player_id": "7528",
+          "full_name": "Najee Harris"
+        },
+        {
+          "player_id": "1426",
+          "full_name": "DeAndre Hopkins"
+        },
+        {
+          "player_id": "2133",
+          "full_name": "Davante Adams"
+        },
+        {
+          "player_id": "421",
+          "full_name": "Matthew Stafford"
+        }
+      ],
+      "reserve": [
+        {
+          "player_id": "4017",
+          "full_name": "Deshaun Watson",
+          "injury_status": null
+        },
+        {
+          "player_id": "8172",
+          "full_name": "Greg Dulcich",
+          "injury_status": null
+        }
+      ],
+      "bench": [
+        {
+          "player_id": "1234",
+          "full_name": "Russell Wilson"
+        },
+        {
+          "player_id": "2251",
+          "full_name": "Logan Thomas"
+        },
+        {
+          "player_id": "2309",
+          "full_name": "Amari Cooper"
+        },
+        {
+          "player_id": "4040",
+          "full_name": "JuJu Smith-Schuster"
+        },
+        {
+          "player_id": "4080",
+          "full_name": "Zay Jones"
+        },
+        {
+          "player_id": "4199",
+          "full_name": "Aaron Jones"
+        },
+        {
+          "player_id": "4951",
+          "full_name": "DJ Chark"
+        },
+        {
+          "player_id": "5001",
+          "full_name": "Dalton Schultz"
+        },
+        {
+          "player_id": "5012",
+          "full_name": "Mark Andrews"
+        },
+        {
+          "player_id": "5848",
+          "full_name": "Hollywood Brown"
+        },
+        {
+          "player_id": "7045",
+          "full_name": "Joshua Kelley"
+        },
+        {
+          "player_id": "7594",
+          "full_name": "Chuba Hubbard"
+        },
+        {
+          "player_id": "8210",
+          "full_name": "Chigoziem Okonkwo"
+        },
+        {
+          "player_id": "9226",
+          "full_name": "De'Von Achane"
+        }
+      ],
+      "bench_count": 14,
+      "taxi": [
+        {
+          "player_id": "10218",
+          "full_name": "Xavier Hutchinson"
+        },
+        {
+          "player_id": "10857",
+          "full_name": "Stetson Bennett"
+        }
+      ]
+    },
+    "andrewfantasyy": {
+      "owner_id": "461578674852851712",
+      "roster_id": 4,
+      "players": [
+        {
+          "player_id": "10444",
+          "full_name": "Cedric Tillman"
+        },
+        {
+          "player_id": "11306",
+          "full_name": "Xavier Gipson"
+        },
+        {
+          "player_id": "1476",
+          "full_name": "Latavius Murray"
+        },
+        {
+          "player_id": "1479",
+          "full_name": "Keenan Allen"
+        },
+        {
+          "player_id": "2749",
+          "full_name": "Raheem Mostert"
+        },
+        {
+          "player_id": "3163",
+          "full_name": "Jared Goff"
+        },
+        {
+          "player_id": "3321",
+          "full_name": "Tyreek Hill"
+        },
+        {
+          "player_id": "4033",
+          "full_name": "David Njoku"
+        },
+        {
+          "player_id": "4037",
+          "full_name": "Chris Godwin"
+        },
+        {
+          "player_id": "4234",
+          "full_name": "Noah Brown"
+        },
+        {
+          "player_id": "4866",
+          "full_name": "Saquon Barkley"
+        },
+        {
+          "player_id": "4881",
+          "full_name": "Lamar Jackson"
+        },
+        {
+          "player_id": "4972",
+          "full_name": "Mason Rudolph"
+        },
+        {
+          "player_id": "4981",
+          "full_name": "Calvin Ridley"
+        },
+        {
+          "player_id": "5248",
+          "full_name": "Gus Edwards"
+        },
+        {
+          "player_id": "5844",
+          "full_name": "T.J. Hockenson"
+        },
+        {
+          "player_id": "6111",
+          "full_name": "Jake Browning"
+        },
+        {
+          "player_id": "6813",
+          "full_name": "Jonathan Taylor"
+        },
+        {
+          "player_id": "6845",
+          "full_name": "Zack Moss"
+        },
+        {
+          "player_id": "6938",
+          "full_name": "Cam Akers"
+        },
+        {
+          "player_id": "7523",
+          "full_name": "Trevor Lawrence"
+        },
+        {
+          "player_id": "7596",
+          "full_name": "Elijah Moore"
+        },
+        {
+          "player_id": "8134",
+          "full_name": "Khalil Shakir"
+        },
+        {
+          "player_id": "8138",
+          "full_name": "James Cook"
+        },
+        {
+          "player_id": "8154",
+          "full_name": "Brian Robinson"
+        },
+        {
+          "player_id": "8228",
+          "full_name": "Jaylen Warren"
+        },
+        {
+          "player_id": "8676",
+          "full_name": "Rashid Shaheed"
+        },
+        {
+          "player_id": "9487",
+          "full_name": "Parker Washington"
+        },
+        {
+          "player_id": "9492",
+          "full_name": "Trey Palmer"
+        },
+        {
+          "player_id": "9754",
+          "full_name": "Quentin Johnston"
+        }
+      ],
+      "starters": [
+        {
+          "player_id": "4881",
+          "full_name": "Lamar Jackson"
+        },
+        {
+          "player_id": "6813",
+          "full_name": "Jonathan Taylor"
+        },
+        {
+          "player_id": "8138",
+          "full_name": "James Cook"
+        },
+        {
+          "player_id": "1479",
+          "full_name": "Keenan Allen"
+        },
+        {
+          "player_id": "4981",
+          "full_name": "Calvin Ridley"
+        },
+        {
+          "player_id": "3321",
+          "full_name": "Tyreek Hill"
+        },
+        {
+          "player_id": "4033",
+          "full_name": "David Njoku"
+        },
+        {
+          "player_id": "8154",
+          "full_name": "Brian Robinson"
+        },
+        {
+          "player_id": "4866",
+          "full_name": "Saquon Barkley"
+        },
+        {
+          "player_id": "4037",
+          "full_name": "Chris Godwin"
+        },
+        {
+          "player_id": "2749",
+          "full_name": "Raheem Mostert"
+        },
+        {
+          "player_id": "3163",
+          "full_name": "Jared Goff"
+        }
+      ],
+      "reserve": [
+        {
+          "player_id": "5844",
+          "full_name": "T.J. Hockenson",
+          "injury_status": "PUP"
+        },
+        {
+          "player_id": "6938",
+          "full_name": "Cam Akers",
+          "injury_status": "Questionable"
+        }
+      ],
+      "bench": [
+        {
+          "player_id": "11306",
+          "full_name": "Xavier Gipson"
+        },
+        {
+          "player_id": "1476",
+          "full_name": "Latavius Murray"
+        },
+        {
+          "player_id": "4234",
+          "full_name": "Noah Brown"
+        },
+        {
+          "player_id": "4972",
+          "full_name": "Mason Rudolph"
+        },
+        {
+          "player_id": "5248",
+          "full_name": "Gus Edwards"
+        },
+        {
+          "player_id": "6111",
+          "full_name": "Jake Browning"
+        },
+        {
+          "player_id": "6845",
+          "full_name": "Zack Moss"
+        },
+        {
+          "player_id": "7523",
+          "full_name": "Trevor Lawrence"
+        },
+        {
+          "player_id": "7596",
+          "full_name": "Elijah Moore"
+        },
+        {
+          "player_id": "8134",
+          "full_name": "Khalil Shakir"
+        },
+        {
+          "player_id": "8228",
+          "full_name": "Jaylen Warren"
+        },
+        {
+          "player_id": "8676",
+          "full_name": "Rashid Shaheed"
+        },
+        {
+          "player_id": "9487",
+          "full_name": "Parker Washington"
+        },
+        {
+          "player_id": "9754",
+          "full_name": "Quentin Johnston"
+        }
+      ],
+      "bench_count": 14,
+      "taxi": [
+        {
+          "player_id": "10444",
+          "full_name": "Cedric Tillman"
+        },
+        {
+          "player_id": "9492",
+          "full_name": "Trey Palmer"
+        }
+      ]
+    },
+    "kletcher": {
+      "owner_id": "999403842389311488",
+      "roster_id": 5,
+      "players": [
+        {
+          "player_id": "10225",
+          "full_name": "Jonathan Mingo"
+        },
+        {
+          "player_id": "10228",
+          "full_name": "Charlie Jones"
+        },
+        {
+          "player_id": "10235",
+          "full_name": "Roschon Johnson"
+        },
+        {
+          "player_id": "10859",
+          "full_name": "Sam LaPorta"
+        },
+        {
+          "player_id": "10870",
+          "full_name": "Deneric Prince"
+        },
+        {
+          "player_id": "10871",
+          "full_name": "Luke Schoonmaker"
+        },
+        {
+          "player_id": "1373",
+          "full_name": "Geno Smith"
+        },
+        {
+          "player_id": "1689",
+          "full_name": "Adam Thielen"
+        },
+        {
+          "player_id": "2374",
+          "full_name": "Tyler Lockett"
+        },
+        {
+          "player_id": "3225",
+          "full_name": "Tyler Boyd"
+        },
+        {
+          "player_id": "4039",
+          "full_name": "Cooper Kupp"
+        },
+        {
+          "player_id": "4068",
+          "full_name": "Mike Williams"
+        },
+        {
+          "player_id": "4111",
+          "full_name": "D'Onta Foreman"
+        },
+        {
+          "player_id": "4454",
+          "full_name": "Kendrick Bourne"
+        },
+        {
+          "player_id": "4988",
+          "full_name": "Nick Chubb"
+        },
+        {
+          "player_id": "5022",
+          "full_name": "Dallas Goedert"
+        },
+        {
+          "player_id": "5892",
+          "full_name": "David Montgomery"
+        },
+        {
+          "player_id": "6151",
+          "full_name": "Miles Sanders"
+        },
+        {
+          "player_id": "6421",
+          "full_name": "Jalen Guyton"
+        },
+        {
+          "player_id": "6768",
+          "full_name": "Tua Tagovailoa"
+        },
+        {
+          "player_id": "6806",
+          "full_name": "J.K. Dobbins"
+        },
+        {
+          "player_id": "6943",
+          "full_name": "Gabe Davis"
+        },
+        {
+          "player_id": "7564",
+          "full_name": "Ja'Marr Chase"
+        },
+        {
+          "player_id": "7567",
+          "full_name": "Kenneth Gainwell"
+        },
+        {
+          "player_id": "7601",
+          "full_name": "Rondale Moore"
+        },
+        {
+          "player_id": "8143",
+          "full_name": "Jerome Ford"
+        },
+        {
+          "player_id": "8183",
+          "full_name": "Brock Purdy"
+        },
+        {
+          "player_id": "9225",
+          "full_name": "Tank Bigsby"
+        },
+        {
+          "player_id": "9228",
+          "full_name": "Bryce Young"
+        },
+        {
+          "player_id": "9509",
+          "full_name": "Bijan Robinson"
+        },
+        {
+          "player_id": "9997",
+          "full_name": "Zay Flowers"
+        }
+      ],
+      "starters": [
+        {
+          "player_id": "6768",
+          "full_name": "Tua Tagovailoa"
+        },
+        {
+          "player_id": "5892",
+          "full_name": "David Montgomery"
+        },
+        {
+          "player_id": "8143",
+          "full_name": "Jerome Ford"
+        },
+        {
+          "player_id": "1689",
+          "full_name": "Adam Thielen"
+        },
+        {
+          "player_id": "6943",
+          "full_name": "Gabe Davis"
+        },
+        {
+          "player_id": "2374",
+          "full_name": "Tyler Lockett"
+        },
+        {
+          "player_id": "10859",
+          "full_name": "Sam LaPorta"
+        },
+        {
+          "player_id": "9509",
+          "full_name": "Bijan Robinson"
+        },
+        {
+          "player_id": "7564",
+          "full_name": "Ja'Marr Chase"
+        },
+        {
+          "player_id": "4039",
+          "full_name": "Cooper Kupp"
+        },
+        {
+          "player_id": "9997",
+          "full_name": "Zay Flowers"
+        },
+        {
+          "player_id": "8183",
+          "full_name": "Brock Purdy"
+        }
+      ],
+      "reserve": [
+        {
+          "player_id": "4988",
+          "full_name": "Nick Chubb",
+          "injury_status": "PUP"
+        },
+        {
+          "player_id": "6806",
+          "full_name": "J.K. Dobbins",
+          "injury_status": null
+        }
+      ],
+      "bench": [
+        {
+          "player_id": "10225",
+          "full_name": "Jonathan Mingo"
+        },
+        {
+          "player_id": "10235",
+          "full_name": "Roschon Johnson"
+        },
+        {
+          "player_id": "1373",
+          "full_name": "Geno Smith"
+        },
+        {
+          "player_id": "3225",
+          "full_name": "Tyler Boyd"
+        },
+        {
+          "player_id": "4068",
+          "full_name": "Mike Williams"
+        },
+        {
+          "player_id": "4111",
+          "full_name": "D'Onta Foreman"
+        },
+        {
+          "player_id": "4454",
+          "full_name": "Kendrick Bourne"
+        },
+        {
+          "player_id": "5022",
+          "full_name": "Dallas Goedert"
+        },
+        {
+          "player_id": "6151",
+          "full_name": "Miles Sanders"
+        },
+        {
+          "player_id": "6421",
+          "full_name": "Jalen Guyton"
+        },
+        {
+          "player_id": "7567",
+          "full_name": "Kenneth Gainwell"
+        },
+        {
+          "player_id": "7601",
+          "full_name": "Rondale Moore"
+        },
+        {
+          "player_id": "9225",
+          "full_name": "Tank Bigsby"
+        },
+        {
+          "player_id": "9228",
+          "full_name": "Bryce Young"
+        }
+      ],
+      "bench_count": 14,
+      "taxi": [
+        {
+          "player_id": "10228",
+          "full_name": "Charlie Jones"
+        },
+        {
+          "player_id": "10870",
+          "full_name": "Deneric Prince"
+        },
+        {
+          "player_id": "10871",
+          "full_name": "Luke Schoonmaker"
+        }
+      ]
+    },
+    "LukeWiz": {
+      "owner_id": "1000097687890317312",
+      "roster_id": 6,
+      "players": [
+        {
+          "player_id": "2307",
+          "full_name": "Marcus Mariota"
+        },
+        {
+          "player_id": "3164",
+          "full_name": "Ezekiel Elliott"
+        },
+        {
+          "player_id": "3294",
+          "full_name": "Dak Prescott"
+        },
+        {
+          "player_id": "4171",
+          "full_name": "Josh Reynolds"
+        },
+        {
+          "player_id": "4574",
+          "full_name": "Cooper Rush"
+        },
+        {
+          "player_id": "5038",
+          "full_name": "Michael Gallup"
+        },
+        {
+          "player_id": "5045",
+          "full_name": "Courtland Sutton"
+        },
+        {
+          "player_id": "5937",
+          "full_name": "Diontae Johnson"
+        },
+        {
+          "player_id": "5947",
+          "full_name": "Jakobi Meyers"
+        },
+        {
+          "player_id": "5967",
+          "full_name": "Tony Pollard"
+        },
+        {
+          "player_id": "5987",
+          "full_name": "Alexander Mattison"
+        },
+        {
+          "player_id": "6011",
+          "full_name": "Gardner Minshew"
+        },
+        {
+          "player_id": "6786",
+          "full_name": "CeeDee Lamb"
+        },
+        {
+          "player_id": "6904",
+          "full_name": "Jalen Hurts"
+        },
+        {
+          "player_id": "7021",
+          "full_name": "Rico Dowdle"
+        },
+        {
+          "player_id": "7543",
+          "full_name": "Travis Etienne"
+        },
+        {
+          "player_id": "7547",
+          "full_name": "Amon-Ra St. Brown"
+        },
+        {
+          "player_id": "7600",
+          "full_name": "Pat Freiermuth"
+        },
+        {
+          "player_id": "7610",
+          "full_name": "Trey Lance"
+        },
+        {
+          "player_id": "7611",
+          "full_name": "Rhamondre Stevenson"
+        },
+        {
+          "player_id": "8110",
+          "full_name": "Jake Ferguson"
+        },
+        {
+          "player_id": "8132",
+          "full_name": "Tyler Allgeier"
+        },
+        {
+          "player_id": "8136",
+          "full_name": "Rachaad White"
+        },
+        {
+          "player_id": "8160",
+          "full_name": "Kenny Pickett"
+        },
+        {
+          "player_id": "8168",
+          "full_name": "Skyy Moore"
+        },
+        {
+          "player_id": "9488",
+          "full_name": "Jaxon Smith-Njigba"
+        },
+        {
+          "player_id": "9505",
+          "full_name": "Deuce Vaughn"
+        },
+        {
+          "player_id": "9998",
+          "full_name": "Hendon Hooker"
+        }
+      ],
+      "starters": [
+        {
+          "player_id": "3294",
+          "full_name": "Dak Prescott"
+        },
+        {
+          "player_id": "7543",
+          "full_name": "Travis Etienne"
+        },
+        {
+          "player_id": "5967",
+          "full_name": "Tony Pollard"
+        },
+        {
+          "player_id": "6786",
+          "full_name": "CeeDee Lamb"
+        },
+        {
+          "player_id": "5937",
+          "full_name": "Diontae Johnson"
+        },
+        {
+          "player_id": "7547",
+          "full_name": "Amon-Ra St. Brown"
+        },
+        {
+          "player_id": "8110",
+          "full_name": "Jake Ferguson"
+        },
+        {
+          "player_id": "8132",
+          "full_name": "Tyler Allgeier"
+        },
+        {
+          "player_id": "3164",
+          "full_name": "Ezekiel Elliott"
+        },
+        {
+          "player_id": "9488",
+          "full_name": "Jaxon Smith-Njigba"
+        },
+        {
+          "player_id": "8136",
+          "full_name": "Rachaad White"
+        },
+        {
+          "player_id": "6904",
+          "full_name": "Jalen Hurts"
+        }
+      ],
+      "reserve": [],
+      "bench": [
+        {
+          "player_id": "2307",
+          "full_name": "Marcus Mariota"
+        },
+        {
+          "player_id": "4171",
+          "full_name": "Josh Reynolds"
+        },
+        {
+          "player_id": "4574",
+          "full_name": "Cooper Rush"
+        },
+        {
+          "player_id": "5038",
+          "full_name": "Michael Gallup"
+        },
+        {
+          "player_id": "5045",
+          "full_name": "Courtland Sutton"
+        },
+        {
+          "player_id": "5947",
+          "full_name": "Jakobi Meyers"
+        },
+        {
+          "player_id": "5987",
+          "full_name": "Alexander Mattison"
+        },
+        {
+          "player_id": "6011",
+          "full_name": "Gardner Minshew"
+        },
+        {
+          "player_id": "7021",
+          "full_name": "Rico Dowdle"
+        },
+        {
+          "player_id": "7600",
+          "full_name": "Pat Freiermuth"
+        },
+        {
+          "player_id": "7610",
+          "full_name": "Trey Lance"
+        },
+        {
+          "player_id": "7611",
+          "full_name": "Rhamondre Stevenson"
+        },
+        {
+          "player_id": "8160",
+          "full_name": "Kenny Pickett"
+        },
+        {
+          "player_id": "8168",
+          "full_name": "Skyy Moore"
+        }
+      ],
+      "bench_count": 14,
+      "taxi": [
+        {
+          "player_id": "9505",
+          "full_name": "Deuce Vaughn"
+        },
+        {
+          "player_id": "9998",
+          "full_name": "Hendon Hooker"
+        }
+      ]
+    },
+    "RThelen": {
+      "owner_id": "755111255970275328",
+      "roster_id": 7,
+      "players": [
+        {
+          "player_id": "10867",
+          "full_name": "Jake Bobo"
+        },
+        {
+          "player_id": "10983",
+          "full_name": "Sean Clifford"
+        },
+        {
+          "player_id": "19",
+          "full_name": "Joe Flacco"
+        },
+        {
+          "player_id": "2028",
+          "full_name": "Derek Carr"
+        },
+        {
+          "player_id": "2078",
+          "full_name": "Odell Beckham"
+        },
+        {
+          "player_id": "2161",
+          "full_name": "Jerick McKinnon"
+        },
+        {
+          "player_id": "2197",
+          "full_name": "Brandin Cooks"
+        },
+        {
+          "player_id": "2449",
+          "full_name": "Stefon Diggs"
+        },
+        {
+          "player_id": "3198",
+          "full_name": "Derrick Henry"
+        },
+        {
+          "player_id": "3199",
+          "full_name": "Michael Thomas"
+        },
+        {
+          "player_id": "3286",
+          "full_name": "Demarcus Robinson"
+        },
+        {
+          "player_id": "4018",
+          "full_name": "Joe Mixon"
+        },
+        {
+          "player_id": "4046",
+          "full_name": "Patrick Mahomes"
+        },
+        {
+          "player_id": "4082",
+          "full_name": "Curtis Samuel"
+        },
+        {
+          "player_id": "4098",
+          "full_name": "Kareem Hunt"
+        },
+        {
+          "player_id": "4137",
+          "full_name": "James Conner"
+        },
+        {
+          "player_id": "4217",
+          "full_name": "George Kittle"
+        },
+        {
+          "player_id": "4663",
+          "full_name": "Austin Ekeler"
+        },
+        {
+          "player_id": "4950",
+          "full_name": "Christian Kirk"
+        },
+        {
+          "player_id": "5872",
+          "full_name": "Deebo Samuel"
+        },
+        {
+          "player_id": "6826",
+          "full_name": "Cole Kmet"
+        },
+        {
+          "player_id": "6945",
+          "full_name": "Antonio Gibson"
+        },
+        {
+          "player_id": "7090",
+          "full_name": "Darnell Mooney"
+        },
+        {
+          "player_id": "8151",
+          "full_name": "Kenneth Walker"
+        },
+        {
+          "player_id": "8205",
+          "full_name": "Isiah Pacheco"
+        },
+        {
+          "player_id": "9504",
+          "full_name": "Kayshon Boutte"
+        },
+        {
+          "player_id": "96",
+          "full_name": "Aaron Rodgers"
+        }
+      ],
+      "starters": [
+        {
+          "player_id": "4046",
+          "full_name": "Patrick Mahomes"
+        },
+        {
+          "player_id": "4663",
+          "full_name": "Austin Ekeler"
+        },
+        {
+          "player_id": "4098",
+          "full_name": "Kareem Hunt"
+        },
+        {
+          "player_id": "2449",
+          "full_name": "Stefon Diggs"
+        },
+        {
+          "player_id": "4082",
+          "full_name": "Curtis Samuel"
+        },
+        {
+          "player_id": "3286",
+          "full_name": "Demarcus Robinson"
+        },
+        {
+          "player_id": "4217",
+          "full_name": "George Kittle"
+        },
+        {
+          "player_id": "4137",
+          "full_name": "James Conner"
+        },
+        {
+          "player_id": "3198",
+          "full_name": "Derrick Henry"
+        },
+        {
+          "player_id": "4018",
+          "full_name": "Joe Mixon"
+        },
+        {
+          "player_id": "5872",
+          "full_name": "Deebo Samuel"
+        },
+        {
+          "player_id": "19",
+          "full_name": "Joe Flacco"
+        }
+      ],
+      "reserve": [],
+      "bench": [
+        {
+          "player_id": "2028",
+          "full_name": "Derek Carr"
+        },
+        {
+          "player_id": "2078",
+          "full_name": "Odell Beckham"
+        },
+        {
+          "player_id": "2161",
+          "full_name": "Jerick McKinnon"
+        },
+        {
+          "player_id": "2197",
+          "full_name": "Brandin Cooks"
+        },
+        {
+          "player_id": "3199",
+          "full_name": "Michael Thomas"
+        },
+        {
+          "player_id": "4950",
+          "full_name": "Christian Kirk"
+        },
+        {
+          "player_id": "6826",
+          "full_name": "Cole Kmet"
+        },
+        {
+          "player_id": "6945",
+          "full_name": "Antonio Gibson"
+        },
+        {
+          "player_id": "7090",
+          "full_name": "Darnell Mooney"
+        },
+        {
+          "player_id": "8151",
+          "full_name": "Kenneth Walker"
+        },
+        {
+          "player_id": "8205",
+          "full_name": "Isiah Pacheco"
+        },
+        {
+          "player_id": "96",
+          "full_name": "Aaron Rodgers"
+        }
+      ],
+      "bench_count": 12,
+      "taxi": [
+        {
+          "player_id": "10867",
+          "full_name": "Jake Bobo"
+        },
+        {
+          "player_id": "10983",
+          "full_name": "Sean Clifford"
+        },
+        {
+          "player_id": "9504",
+          "full_name": "Kayshon Boutte"
+        }
+      ]
+    },
+    "cstroh": {
+      "owner_id": "545729168853360640",
+      "roster_id": 8,
+      "players": [
+        {
+          "player_id": "10219",
+          "full_name": "Chris Rodriguez"
+        },
+        {
+          "player_id": "10222",
+          "full_name": "Jayden Reed"
+        },
+        {
+          "player_id": "11439",
+          "full_name": "Jaleel McLaughlin"
+        },
+        {
+          "player_id": "4066",
+          "full_name": "Evan Engram"
+        },
+        {
+          "player_id": "6797",
+          "full_name": "Justin Herbert"
+        },
+        {
+          "player_id": "6804",
+          "full_name": "Jordan Love"
+        },
+        {
+          "player_id": "6819",
+          "full_name": "Michael Pittman"
+        },
+        {
+          "player_id": "7526",
+          "full_name": "Jaylen Waddle"
+        },
+        {
+          "player_id": "7562",
+          "full_name": "Tutu Atwell"
+        },
+        {
+          "player_id": "7569",
+          "full_name": "Nico Collins"
+        },
+        {
+          "player_id": "7588",
+          "full_name": "Javonte Williams"
+        },
+        {
+          "player_id": "7670",
+          "full_name": "Joshua Palmer"
+        },
+        {
+          "player_id": "8111",
+          "full_name": "Cade Otton"
+        },
+        {
+          "player_id": "8112",
+          "full_name": "Drake London"
+        },
+        {
+          "player_id": "8129",
+          "full_name": "Dameon Pierce"
+        },
+        {
+          "player_id": "8137",
+          "full_name": "George Pickens"
+        },
+        {
+          "player_id": "8139",
+          "full_name": "Zamir White"
+        },
+        {
+          "player_id": "8148",
+          "full_name": "Jameson Williams"
+        },
+        {
+          "player_id": "8153",
+          "full_name": "Isaiah Spiller"
+        },
+        {
+          "player_id": "8162",
+          "full_name": "Sam Howell"
+        },
+        {
+          "player_id": "8195",
+          "full_name": "Ronnie Rivers"
+        },
+        {
+          "player_id": "9221",
+          "full_name": "Jahmyr Gibbs"
+        },
+        {
+          "player_id": "9229",
+          "full_name": "Anthony Richardson"
+        },
+        {
+          "player_id": "9486",
+          "full_name": "Dontayvion Wicks"
+        },
+        {
+          "player_id": "9490",
+          "full_name": "Tyler Scott"
+        },
+        {
+          "player_id": "9493",
+          "full_name": "Puka Nacua"
+        },
+        {
+          "player_id": "9494",
+          "full_name": "Marvin Mims"
+        },
+        {
+          "player_id": "9497",
+          "full_name": "Jalin Hyatt"
+        },
+        {
+          "player_id": "9511",
+          "full_name": "Keaton Mitchell"
+        },
+        {
+          "player_id": "9753",
+          "full_name": "Zach Charbonnet"
+        },
+        {
+          "player_id": "9756",
+          "full_name": "Jordan Addison"
+        }
+      ],
+      "starters": [
+        {
+          "player_id": "6804",
+          "full_name": "Jordan Love"
+        },
+        {
+          "player_id": "9221",
+          "full_name": "Jahmyr Gibbs"
+        },
+        {
+          "player_id": "8139",
+          "full_name": "Zamir White"
+        },
+        {
+          "player_id": "6819",
+          "full_name": "Michael Pittman"
+        },
+        {
+          "player_id": "7569",
+          "full_name": "Nico Collins"
+        },
+        {
+          "player_id": "9493",
+          "full_name": "Puka Nacua"
+        },
+        {
+          "player_id": "4066",
+          "full_name": "Evan Engram"
+        },
+        {
+          "player_id": "8112",
+          "full_name": "Drake London"
+        },
+        {
+          "player_id": "8137",
+          "full_name": "George Pickens"
+        },
+        {
+          "player_id": "7526",
+          "full_name": "Jaylen Waddle"
+        },
+        {
+          "player_id": "9756",
+          "full_name": "Jordan Addison"
+        },
+        {
+          "player_id": "9229",
+          "full_name": "Anthony Richardson"
+        }
+      ],
+      "reserve": [
+        {
+          "player_id": "10222",
+          "full_name": "Jayden Reed",
+          "injury_status": null
+        },
+        {
+          "player_id": "9511",
+          "full_name": "Keaton Mitchell",
+          "injury_status": "PUP"
+        }
+      ],
+      "bench": [
+        {
+          "player_id": "11439",
+          "full_name": "Jaleel McLaughlin"
+        },
+        {
+          "player_id": "6797",
+          "full_name": "Justin Herbert"
+        },
+        {
+          "player_id": "7562",
+          "full_name": "Tutu Atwell"
+        },
+        {
+          "player_id": "7588",
+          "full_name": "Javonte Williams"
+        },
+        {
+          "player_id": "7670",
+          "full_name": "Joshua Palmer"
+        },
+        {
+          "player_id": "8111",
+          "full_name": "Cade Otton"
+        },
+        {
+          "player_id": "8129",
+          "full_name": "Dameon Pierce"
+        },
+        {
+          "player_id": "8148",
+          "full_name": "Jameson Williams"
+        },
+        {
+          "player_id": "8153",
+          "full_name": "Isaiah Spiller"
+        },
+        {
+          "player_id": "8162",
+          "full_name": "Sam Howell"
+        },
+        {
+          "player_id": "8195",
+          "full_name": "Ronnie Rivers"
+        },
+        {
+          "player_id": "9486",
+          "full_name": "Dontayvion Wicks"
+        },
+        {
+          "player_id": "9494",
+          "full_name": "Marvin Mims"
+        },
+        {
+          "player_id": "9753",
+          "full_name": "Zach Charbonnet"
+        }
+      ],
+      "bench_count": 14,
+      "taxi": [
+        {
+          "player_id": "10219",
+          "full_name": "Chris Rodriguez"
+        },
+        {
+          "player_id": "9490",
+          "full_name": "Tyler Scott"
+        },
+        {
+          "player_id": "9497",
+          "full_name": "Jalin Hyatt"
+        }
+      ]
+    }
   },
-  "SkinWagon": {
-    "owner_id": "349805178263764992",
-    "roster_id": 2,
-    "players": [
-      {
-        "player_id": "10223",
-        "full_name": "Eric Gray"
-      },
-      {
-        "player_id": "10232",
-        "full_name": "Michael Wilson"
-      },
-      {
-        "player_id": "1166",
-        "full_name": "Kirk Cousins"
-      },
-      {
-        "player_id": "1466",
-        "full_name": "Travis Kelce"
-      },
-      {
-        "player_id": "2216",
-        "full_name": "Mike Evans"
-      },
-      {
-        "player_id": "4035",
-        "full_name": "Alvin Kamara"
-      },
-      {
-        "player_id": "4892",
-        "full_name": "Baker Mayfield"
-      },
-      {
-        "player_id": "5846",
-        "full_name": "DK Metcalf"
-      },
-      {
-        "player_id": "5927",
-        "full_name": "Terry McLaurin"
-      },
-      {
-        "player_id": "6783",
-        "full_name": "Jerry Jeudy"
-      },
-      {
-        "player_id": "6790",
-        "full_name": "D'Andre Swift"
-      },
-      {
-        "player_id": "6794",
-        "full_name": "Justin Jefferson"
-      },
-      {
-        "player_id": "6801",
-        "full_name": "Tee Higgins"
-      },
-      {
-        "player_id": "6828",
-        "full_name": "AJ Dillon"
-      },
-      {
-        "player_id": "7553",
-        "full_name": "Kyle Pitts"
-      },
-      {
-        "player_id": "7591",
-        "full_name": "Justin Fields"
-      },
-      {
-        "player_id": "7607",
-        "full_name": "Michael Carter"
-      },
-      {
-        "player_id": "7608",
-        "full_name": "Khalil Herbert"
-      },
-      {
-        "player_id": "8121",
-        "full_name": "Romeo Doubs"
-      },
-      {
-        "player_id": "8126",
-        "full_name": "Wan'Dale Robinson"
-      },
-      {
-        "player_id": "8130",
-        "full_name": "Trey McBride"
-      },
-      {
-        "player_id": "8131",
-        "full_name": "Isaiah Likely"
-      },
-      {
-        "player_id": "8135",
-        "full_name": "Treylon Burks"
-      },
-      {
-        "player_id": "8167",
-        "full_name": "Christian Watson"
-      },
-      {
-        "player_id": "8230",
-        "full_name": "Ty Chandler"
-      },
-      {
-        "player_id": "9479",
-        "full_name": "Darnell Washington"
-      },
-      {
-        "player_id": "9502",
-        "full_name": "Tank Dell"
-      },
-      {
-        "player_id": "9758",
-        "full_name": "C.J. Stroud"
-      },
-      {
-        "player_id": "9999",
-        "full_name": "Will Levis"
-      }
-    ],
-    "starters": [
-      {
-        "player_id": "9758",
-        "full_name": "C.J. Stroud"
-      },
-      {
-        "player_id": "4035",
-        "full_name": "Alvin Kamara"
-      },
-      {
-        "player_id": "6790",
-        "full_name": "D'Andre Swift"
-      },
-      {
-        "player_id": "5846",
-        "full_name": "DK Metcalf"
-      },
-      {
-        "player_id": "2216",
-        "full_name": "Mike Evans"
-      },
-      {
-        "player_id": "6794",
-        "full_name": "Justin Jefferson"
-      },
-      {
-        "player_id": "1466",
-        "full_name": "Travis Kelce"
-      },
-      {
-        "player_id": "6801",
-        "full_name": "Tee Higgins"
-      },
-      {
-        "player_id": "8130",
-        "full_name": "Trey McBride"
-      },
-      {
-        "player_id": "5927",
-        "full_name": "Terry McLaurin"
-      },
-      {
-        "player_id": "8131",
-        "full_name": "Isaiah Likely"
-      },
-      {
-        "player_id": "1166",
-        "full_name": "Kirk Cousins"
-      }
-    ],
-    "reserve": [],
-    "bench": [
-      {
-        "player_id": "10232",
-        "full_name": "Michael Wilson"
-      },
-      {
-        "player_id": "4892",
-        "full_name": "Baker Mayfield"
-      },
-      {
-        "player_id": "6783",
-        "full_name": "Jerry Jeudy"
-      },
-      {
-        "player_id": "6828",
-        "full_name": "AJ Dillon"
-      },
-      {
-        "player_id": "7553",
-        "full_name": "Kyle Pitts"
-      },
-      {
-        "player_id": "7591",
-        "full_name": "Justin Fields"
-      },
-      {
-        "player_id": "7607",
-        "full_name": "Michael Carter"
-      },
-      {
-        "player_id": "7608",
-        "full_name": "Khalil Herbert"
-      },
-      {
-        "player_id": "8121",
-        "full_name": "Romeo Doubs"
-      },
-      {
-        "player_id": "8126",
-        "full_name": "Wan'Dale Robinson"
-      },
-      {
-        "player_id": "8135",
-        "full_name": "Treylon Burks"
-      },
-      {
-        "player_id": "8167",
-        "full_name": "Christian Watson"
-      },
-      {
-        "player_id": "8230",
-        "full_name": "Ty Chandler"
-      },
-      {
-        "player_id": "9502",
-        "full_name": "Tank Dell"
-      }
-    ],
-    "bench_count": 14,
-    "taxi": [
-      {
-        "player_id": "10223",
-        "full_name": "Eric Gray"
-      },
-      {
-        "player_id": "9479",
-        "full_name": "Darnell Washington"
-      },
-      {
-        "player_id": "9999",
-        "full_name": "Will Levis"
-      }
-    ]
-  },
-  "migbeech": {
-    "owner_id": "755118310961631232",
-    "roster_id": 3,
-    "players": [
-      {
-        "player_id": "10218",
-        "full_name": "Xavier Hutchinson"
-      },
-      {
-        "player_id": "10857",
-        "full_name": "Stetson Bennett"
-      },
-      {
-        "player_id": "1234",
-        "full_name": "Russell Wilson"
-      },
-      {
-        "player_id": "1426",
-        "full_name": "DeAndre Hopkins"
-      },
-      {
-        "player_id": "2133",
-        "full_name": "Davante Adams"
-      },
-      {
-        "player_id": "2251",
-        "full_name": "Logan Thomas"
-      },
-      {
-        "player_id": "2309",
-        "full_name": "Amari Cooper"
-      },
-      {
-        "player_id": "2505",
-        "full_name": "Darren Waller"
-      },
-      {
-        "player_id": "4017",
-        "full_name": "Deshaun Watson"
-      },
-      {
-        "player_id": "4034",
-        "full_name": "Christian McCaffrey"
-      },
-      {
-        "player_id": "4040",
-        "full_name": "JuJu Smith-Schuster"
-      },
-      {
-        "player_id": "4080",
-        "full_name": "Zay Jones"
-      },
-      {
-        "player_id": "4199",
-        "full_name": "Aaron Jones"
-      },
-      {
-        "player_id": "421",
-        "full_name": "Matthew Stafford"
-      },
-      {
-        "player_id": "4951",
-        "full_name": "DJ Chark"
-      },
-      {
-        "player_id": "4983",
-        "full_name": "DJ Moore"
-      },
-      {
-        "player_id": "4984",
-        "full_name": "Josh Allen"
-      },
-      {
-        "player_id": "5001",
-        "full_name": "Dalton Schultz"
-      },
-      {
-        "player_id": "5012",
-        "full_name": "Mark Andrews"
-      },
-      {
-        "player_id": "5848",
-        "full_name": "Hollywood Brown"
-      },
-      {
-        "player_id": "5859",
-        "full_name": "A.J. Brown"
-      },
-      {
-        "player_id": "6130",
-        "full_name": "Devin Singletary"
-      },
-      {
-        "player_id": "7045",
-        "full_name": "Joshua Kelley"
-      },
-      {
-        "player_id": "7066",
-        "full_name": "K.J. Osborn"
-      },
-      {
-        "player_id": "7528",
-        "full_name": "Najee Harris"
-      },
-      {
-        "player_id": "7594",
-        "full_name": "Chuba Hubbard"
-      },
-      {
-        "player_id": "8150",
-        "full_name": "Kyren Williams"
-      },
-      {
-        "player_id": "8172",
-        "full_name": "Greg Dulcich"
-      },
-      {
-        "player_id": "8210",
-        "full_name": "Chigoziem Okonkwo"
-      },
-      {
-        "player_id": "9226",
-        "full_name": "De'Von Achane"
-      }
-    ],
-    "starters": [
-      {
-        "player_id": "4984",
-        "full_name": "Josh Allen"
-      },
-      {
-        "player_id": "4034",
-        "full_name": "Christian McCaffrey"
-      },
-      {
-        "player_id": "6130",
-        "full_name": "Devin Singletary"
-      },
-      {
-        "player_id": "5859",
-        "full_name": "A.J. Brown"
-      },
-      {
-        "player_id": "4983",
-        "full_name": "DJ Moore"
-      },
-      {
-        "player_id": "7066",
-        "full_name": "K.J. Osborn"
-      },
-      {
-        "player_id": "2505",
-        "full_name": "Darren Waller"
-      },
-      {
-        "player_id": "8150",
-        "full_name": "Kyren Williams"
-      },
-      {
-        "player_id": "7528",
-        "full_name": "Najee Harris"
-      },
-      {
-        "player_id": "1426",
-        "full_name": "DeAndre Hopkins"
-      },
-      {
-        "player_id": "2133",
-        "full_name": "Davante Adams"
-      },
-      {
-        "player_id": "421",
-        "full_name": "Matthew Stafford"
-      }
-    ],
-    "reserve": [
-      {
-        "player_id": "4017",
-        "full_name": "Deshaun Watson",
-        "injury_status": null,
-        "is_eligible_for_reserve": false
-      },
-      {
-        "player_id": "8172",
-        "full_name": "Greg Dulcich",
-        "injury_status": null,
-        "is_eligible_for_reserve": false
-      }
-    ],
-    "bench": [
-      {
-        "player_id": "1234",
-        "full_name": "Russell Wilson"
-      },
-      {
-        "player_id": "2251",
-        "full_name": "Logan Thomas"
-      },
-      {
-        "player_id": "2309",
-        "full_name": "Amari Cooper"
-      },
-      {
-        "player_id": "4040",
-        "full_name": "JuJu Smith-Schuster"
-      },
-      {
-        "player_id": "4080",
-        "full_name": "Zay Jones"
-      },
-      {
-        "player_id": "4199",
-        "full_name": "Aaron Jones"
-      },
-      {
-        "player_id": "4951",
-        "full_name": "DJ Chark"
-      },
-      {
-        "player_id": "5001",
-        "full_name": "Dalton Schultz"
-      },
-      {
-        "player_id": "5012",
-        "full_name": "Mark Andrews"
-      },
-      {
-        "player_id": "5848",
-        "full_name": "Hollywood Brown"
-      },
-      {
-        "player_id": "7045",
-        "full_name": "Joshua Kelley"
-      },
-      {
-        "player_id": "7594",
-        "full_name": "Chuba Hubbard"
-      },
-      {
-        "player_id": "8210",
-        "full_name": "Chigoziem Okonkwo"
-      },
-      {
-        "player_id": "9226",
-        "full_name": "De'Von Achane"
-      }
-    ],
-    "bench_count": 14,
-    "taxi": [
-      {
-        "player_id": "10218",
-        "full_name": "Xavier Hutchinson"
-      },
-      {
-        "player_id": "10857",
-        "full_name": "Stetson Bennett"
-      }
-    ]
-  },
-  "andrewfantasyy": {
-    "owner_id": "461578674852851712",
-    "roster_id": 4,
-    "players": [
-      {
-        "player_id": "10444",
-        "full_name": "Cedric Tillman"
-      },
-      {
-        "player_id": "11306",
-        "full_name": "Xavier Gipson"
-      },
-      {
-        "player_id": "1476",
-        "full_name": "Latavius Murray"
-      },
-      {
-        "player_id": "1479",
-        "full_name": "Keenan Allen"
-      },
-      {
-        "player_id": "2749",
-        "full_name": "Raheem Mostert"
-      },
-      {
-        "player_id": "3163",
-        "full_name": "Jared Goff"
-      },
-      {
-        "player_id": "3321",
-        "full_name": "Tyreek Hill"
-      },
-      {
-        "player_id": "4033",
-        "full_name": "David Njoku"
-      },
-      {
-        "player_id": "4037",
-        "full_name": "Chris Godwin"
-      },
-      {
-        "player_id": "4234",
-        "full_name": "Noah Brown"
-      },
-      {
-        "player_id": "4866",
-        "full_name": "Saquon Barkley"
-      },
-      {
-        "player_id": "4881",
-        "full_name": "Lamar Jackson"
-      },
-      {
-        "player_id": "4972",
-        "full_name": "Mason Rudolph"
-      },
-      {
-        "player_id": "4981",
-        "full_name": "Calvin Ridley"
-      },
-      {
-        "player_id": "5248",
-        "full_name": "Gus Edwards"
-      },
-      {
-        "player_id": "5844",
-        "full_name": "T.J. Hockenson"
-      },
-      {
-        "player_id": "6111",
-        "full_name": "Jake Browning"
-      },
-      {
-        "player_id": "6813",
-        "full_name": "Jonathan Taylor"
-      },
-      {
-        "player_id": "6845",
-        "full_name": "Zack Moss"
-      },
-      {
-        "player_id": "6938",
-        "full_name": "Cam Akers"
-      },
-      {
-        "player_id": "7523",
-        "full_name": "Trevor Lawrence"
-      },
-      {
-        "player_id": "7596",
-        "full_name": "Elijah Moore"
-      },
-      {
-        "player_id": "8134",
-        "full_name": "Khalil Shakir"
-      },
-      {
-        "player_id": "8138",
-        "full_name": "James Cook"
-      },
-      {
-        "player_id": "8154",
-        "full_name": "Brian Robinson"
-      },
-      {
-        "player_id": "8228",
-        "full_name": "Jaylen Warren"
-      },
-      {
-        "player_id": "8676",
-        "full_name": "Rashid Shaheed"
-      },
-      {
-        "player_id": "9487",
-        "full_name": "Parker Washington"
-      },
-      {
-        "player_id": "9492",
-        "full_name": "Trey Palmer"
-      },
-      {
-        "player_id": "9754",
-        "full_name": "Quentin Johnston"
-      }
-    ],
-    "starters": [
-      {
-        "player_id": "4881",
-        "full_name": "Lamar Jackson"
-      },
-      {
-        "player_id": "6813",
-        "full_name": "Jonathan Taylor"
-      },
-      {
-        "player_id": "8138",
-        "full_name": "James Cook"
-      },
-      {
-        "player_id": "1479",
-        "full_name": "Keenan Allen"
-      },
-      {
-        "player_id": "4981",
-        "full_name": "Calvin Ridley"
-      },
-      {
-        "player_id": "3321",
-        "full_name": "Tyreek Hill"
-      },
-      {
-        "player_id": "4033",
-        "full_name": "David Njoku"
-      },
-      {
-        "player_id": "8154",
-        "full_name": "Brian Robinson"
-      },
-      {
-        "player_id": "4866",
-        "full_name": "Saquon Barkley"
-      },
-      {
-        "player_id": "4037",
-        "full_name": "Chris Godwin"
-      },
-      {
-        "player_id": "2749",
-        "full_name": "Raheem Mostert"
-      },
-      {
-        "player_id": "3163",
-        "full_name": "Jared Goff"
-      }
-    ],
-    "reserve": [
-      {
-        "player_id": "5844",
-        "full_name": "T.J. Hockenson",
-        "injury_status": "PUP",
-        "is_eligible_for_reserve": true
-      },
-      {
-        "player_id": "6938",
-        "full_name": "Cam Akers",
-        "injury_status": "Questionable",
-        "is_eligible_for_reserve": false
-      }
-    ],
-    "bench": [
-      {
-        "player_id": "11306",
-        "full_name": "Xavier Gipson"
-      },
-      {
-        "player_id": "1476",
-        "full_name": "Latavius Murray"
-      },
-      {
-        "player_id": "4234",
-        "full_name": "Noah Brown"
-      },
-      {
-        "player_id": "4972",
-        "full_name": "Mason Rudolph"
-      },
-      {
-        "player_id": "5248",
-        "full_name": "Gus Edwards"
-      },
-      {
-        "player_id": "6111",
-        "full_name": "Jake Browning"
-      },
-      {
-        "player_id": "6845",
-        "full_name": "Zack Moss"
-      },
-      {
-        "player_id": "7523",
-        "full_name": "Trevor Lawrence"
-      },
-      {
-        "player_id": "7596",
-        "full_name": "Elijah Moore"
-      },
-      {
-        "player_id": "8134",
-        "full_name": "Khalil Shakir"
-      },
-      {
-        "player_id": "8228",
-        "full_name": "Jaylen Warren"
-      },
-      {
-        "player_id": "8676",
-        "full_name": "Rashid Shaheed"
-      },
-      {
-        "player_id": "9487",
-        "full_name": "Parker Washington"
-      },
-      {
-        "player_id": "9754",
-        "full_name": "Quentin Johnston"
-      }
-    ],
-    "bench_count": 14,
-    "taxi": [
-      {
-        "player_id": "10444",
-        "full_name": "Cedric Tillman"
-      },
-      {
-        "player_id": "9492",
-        "full_name": "Trey Palmer"
-      }
-    ]
-  },
-  "kletcher": {
-    "owner_id": "999403842389311488",
-    "roster_id": 5,
-    "players": [
-      {
-        "player_id": "10225",
-        "full_name": "Jonathan Mingo"
-      },
-      {
-        "player_id": "10228",
-        "full_name": "Charlie Jones"
-      },
-      {
-        "player_id": "10235",
-        "full_name": "Roschon Johnson"
-      },
-      {
-        "player_id": "10859",
-        "full_name": "Sam LaPorta"
-      },
-      {
-        "player_id": "10870",
-        "full_name": "Deneric Prince"
-      },
-      {
-        "player_id": "10871",
-        "full_name": "Luke Schoonmaker"
-      },
-      {
-        "player_id": "1373",
-        "full_name": "Geno Smith"
-      },
-      {
-        "player_id": "1689",
-        "full_name": "Adam Thielen"
-      },
-      {
-        "player_id": "2374",
-        "full_name": "Tyler Lockett"
-      },
-      {
-        "player_id": "3225",
-        "full_name": "Tyler Boyd"
-      },
-      {
-        "player_id": "4039",
-        "full_name": "Cooper Kupp"
-      },
-      {
-        "player_id": "4068",
-        "full_name": "Mike Williams"
-      },
-      {
-        "player_id": "4111",
-        "full_name": "D'Onta Foreman"
-      },
-      {
-        "player_id": "4454",
-        "full_name": "Kendrick Bourne"
-      },
-      {
-        "player_id": "4988",
-        "full_name": "Nick Chubb"
-      },
-      {
-        "player_id": "5022",
-        "full_name": "Dallas Goedert"
-      },
-      {
-        "player_id": "5892",
-        "full_name": "David Montgomery"
-      },
-      {
-        "player_id": "6151",
-        "full_name": "Miles Sanders"
-      },
-      {
-        "player_id": "6421",
-        "full_name": "Jalen Guyton"
-      },
-      {
-        "player_id": "6768",
-        "full_name": "Tua Tagovailoa"
-      },
-      {
-        "player_id": "6806",
-        "full_name": "J.K. Dobbins"
-      },
-      {
-        "player_id": "6943",
-        "full_name": "Gabe Davis"
-      },
-      {
-        "player_id": "7564",
-        "full_name": "Ja'Marr Chase"
-      },
-      {
-        "player_id": "7567",
-        "full_name": "Kenneth Gainwell"
-      },
-      {
-        "player_id": "7601",
-        "full_name": "Rondale Moore"
-      },
-      {
-        "player_id": "8143",
-        "full_name": "Jerome Ford"
-      },
-      {
-        "player_id": "8183",
-        "full_name": "Brock Purdy"
-      },
-      {
-        "player_id": "9225",
-        "full_name": "Tank Bigsby"
-      },
-      {
-        "player_id": "9228",
-        "full_name": "Bryce Young"
-      },
-      {
-        "player_id": "9509",
-        "full_name": "Bijan Robinson"
-      },
-      {
-        "player_id": "9997",
-        "full_name": "Zay Flowers"
-      }
-    ],
-    "starters": [
-      {
-        "player_id": "6768",
-        "full_name": "Tua Tagovailoa"
-      },
-      {
-        "player_id": "5892",
-        "full_name": "David Montgomery"
-      },
-      {
-        "player_id": "8143",
-        "full_name": "Jerome Ford"
-      },
-      {
-        "player_id": "1689",
-        "full_name": "Adam Thielen"
-      },
-      {
-        "player_id": "6943",
-        "full_name": "Gabe Davis"
-      },
-      {
-        "player_id": "2374",
-        "full_name": "Tyler Lockett"
-      },
-      {
-        "player_id": "10859",
-        "full_name": "Sam LaPorta"
-      },
-      {
-        "player_id": "9509",
-        "full_name": "Bijan Robinson"
-      },
-      {
-        "player_id": "7564",
-        "full_name": "Ja'Marr Chase"
-      },
-      {
-        "player_id": "4039",
-        "full_name": "Cooper Kupp"
-      },
-      {
-        "player_id": "9997",
-        "full_name": "Zay Flowers"
-      },
-      {
-        "player_id": "8183",
-        "full_name": "Brock Purdy"
-      }
-    ],
-    "reserve": [
-      {
-        "player_id": "4988",
-        "full_name": "Nick Chubb",
-        "injury_status": "PUP",
-        "is_eligible_for_reserve": true
-      },
-      {
-        "player_id": "6806",
-        "full_name": "J.K. Dobbins",
-        "injury_status": null,
-        "is_eligible_for_reserve": false
-      }
-    ],
-    "bench": [
-      {
-        "player_id": "10225",
-        "full_name": "Jonathan Mingo"
-      },
-      {
-        "player_id": "10235",
-        "full_name": "Roschon Johnson"
-      },
-      {
-        "player_id": "1373",
-        "full_name": "Geno Smith"
-      },
-      {
-        "player_id": "3225",
-        "full_name": "Tyler Boyd"
-      },
-      {
-        "player_id": "4068",
-        "full_name": "Mike Williams"
-      },
-      {
-        "player_id": "4111",
-        "full_name": "D'Onta Foreman"
-      },
-      {
-        "player_id": "4454",
-        "full_name": "Kendrick Bourne"
-      },
-      {
-        "player_id": "5022",
-        "full_name": "Dallas Goedert"
-      },
-      {
-        "player_id": "6151",
-        "full_name": "Miles Sanders"
-      },
-      {
-        "player_id": "6421",
-        "full_name": "Jalen Guyton"
-      },
-      {
-        "player_id": "7567",
-        "full_name": "Kenneth Gainwell"
-      },
-      {
-        "player_id": "7601",
-        "full_name": "Rondale Moore"
-      },
-      {
-        "player_id": "9225",
-        "full_name": "Tank Bigsby"
-      },
-      {
-        "player_id": "9228",
-        "full_name": "Bryce Young"
-      }
-    ],
-    "bench_count": 14,
-    "taxi": [
-      {
-        "player_id": "10228",
-        "full_name": "Charlie Jones"
-      },
-      {
-        "player_id": "10870",
-        "full_name": "Deneric Prince"
-      },
-      {
-        "player_id": "10871",
-        "full_name": "Luke Schoonmaker"
-      }
-    ]
-  },
-  "LukeWiz": {
-    "owner_id": "1000097687890317312",
-    "roster_id": 6,
-    "players": [
-      {
-        "player_id": "2307",
-        "full_name": "Marcus Mariota"
-      },
-      {
-        "player_id": "3164",
-        "full_name": "Ezekiel Elliott"
-      },
-      {
-        "player_id": "3294",
-        "full_name": "Dak Prescott"
-      },
-      {
-        "player_id": "4171",
-        "full_name": "Josh Reynolds"
-      },
-      {
-        "player_id": "4574",
-        "full_name": "Cooper Rush"
-      },
-      {
-        "player_id": "5038",
-        "full_name": "Michael Gallup"
-      },
-      {
-        "player_id": "5045",
-        "full_name": "Courtland Sutton"
-      },
-      {
-        "player_id": "5937",
-        "full_name": "Diontae Johnson"
-      },
-      {
-        "player_id": "5947",
-        "full_name": "Jakobi Meyers"
-      },
-      {
-        "player_id": "5967",
-        "full_name": "Tony Pollard"
-      },
-      {
-        "player_id": "5987",
-        "full_name": "Alexander Mattison"
-      },
-      {
-        "player_id": "6011",
-        "full_name": "Gardner Minshew"
-      },
-      {
-        "player_id": "6786",
-        "full_name": "CeeDee Lamb"
-      },
-      {
-        "player_id": "6904",
-        "full_name": "Jalen Hurts"
-      },
-      {
-        "player_id": "7021",
-        "full_name": "Rico Dowdle"
-      },
-      {
-        "player_id": "7543",
-        "full_name": "Travis Etienne"
-      },
-      {
-        "player_id": "7547",
-        "full_name": "Amon-Ra St. Brown"
-      },
-      {
-        "player_id": "7600",
-        "full_name": "Pat Freiermuth"
-      },
-      {
-        "player_id": "7610",
-        "full_name": "Trey Lance"
-      },
-      {
-        "player_id": "7611",
-        "full_name": "Rhamondre Stevenson"
-      },
-      {
-        "player_id": "8110",
-        "full_name": "Jake Ferguson"
-      },
-      {
-        "player_id": "8132",
-        "full_name": "Tyler Allgeier"
-      },
-      {
-        "player_id": "8136",
-        "full_name": "Rachaad White"
-      },
-      {
-        "player_id": "8160",
-        "full_name": "Kenny Pickett"
-      },
-      {
-        "player_id": "8168",
-        "full_name": "Skyy Moore"
-      },
-      {
-        "player_id": "9488",
-        "full_name": "Jaxon Smith-Njigba"
-      },
-      {
-        "player_id": "9505",
-        "full_name": "Deuce Vaughn"
-      },
-      {
-        "player_id": "9998",
-        "full_name": "Hendon Hooker"
-      }
-    ],
-    "starters": [
-      {
-        "player_id": "3294",
-        "full_name": "Dak Prescott"
-      },
-      {
-        "player_id": "7543",
-        "full_name": "Travis Etienne"
-      },
-      {
-        "player_id": "5967",
-        "full_name": "Tony Pollard"
-      },
-      {
-        "player_id": "6786",
-        "full_name": "CeeDee Lamb"
-      },
-      {
-        "player_id": "5937",
-        "full_name": "Diontae Johnson"
-      },
-      {
-        "player_id": "7547",
-        "full_name": "Amon-Ra St. Brown"
-      },
-      {
-        "player_id": "8110",
-        "full_name": "Jake Ferguson"
-      },
-      {
-        "player_id": "8132",
-        "full_name": "Tyler Allgeier"
-      },
-      {
-        "player_id": "3164",
-        "full_name": "Ezekiel Elliott"
-      },
-      {
-        "player_id": "9488",
-        "full_name": "Jaxon Smith-Njigba"
-      },
-      {
-        "player_id": "8136",
-        "full_name": "Rachaad White"
-      },
-      {
-        "player_id": "6904",
-        "full_name": "Jalen Hurts"
-      }
-    ],
-    "reserve": [],
-    "bench": [
-      {
-        "player_id": "2307",
-        "full_name": "Marcus Mariota"
-      },
-      {
-        "player_id": "4171",
-        "full_name": "Josh Reynolds"
-      },
-      {
-        "player_id": "4574",
-        "full_name": "Cooper Rush"
-      },
-      {
-        "player_id": "5038",
-        "full_name": "Michael Gallup"
-      },
-      {
-        "player_id": "5045",
-        "full_name": "Courtland Sutton"
-      },
-      {
-        "player_id": "5947",
-        "full_name": "Jakobi Meyers"
-      },
-      {
-        "player_id": "5987",
-        "full_name": "Alexander Mattison"
-      },
-      {
-        "player_id": "6011",
-        "full_name": "Gardner Minshew"
-      },
-      {
-        "player_id": "7021",
-        "full_name": "Rico Dowdle"
-      },
-      {
-        "player_id": "7600",
-        "full_name": "Pat Freiermuth"
-      },
-      {
-        "player_id": "7610",
-        "full_name": "Trey Lance"
-      },
-      {
-        "player_id": "7611",
-        "full_name": "Rhamondre Stevenson"
-      },
-      {
-        "player_id": "8160",
-        "full_name": "Kenny Pickett"
-      },
-      {
-        "player_id": "8168",
-        "full_name": "Skyy Moore"
-      }
-    ],
-    "bench_count": 14,
-    "taxi": [
-      {
-        "player_id": "9505",
-        "full_name": "Deuce Vaughn"
-      },
-      {
-        "player_id": "9998",
-        "full_name": "Hendon Hooker"
-      }
-    ]
-  },
-  "RThelen": {
-    "owner_id": "755111255970275328",
-    "roster_id": 7,
-    "players": [
-      {
-        "player_id": "10867",
-        "full_name": "Jake Bobo"
-      },
-      {
-        "player_id": "10983",
-        "full_name": "Sean Clifford"
-      },
-      {
-        "player_id": "19",
-        "full_name": "Joe Flacco"
-      },
-      {
-        "player_id": "2028",
-        "full_name": "Derek Carr"
-      },
-      {
-        "player_id": "2078",
-        "full_name": "Odell Beckham"
-      },
-      {
-        "player_id": "2161",
-        "full_name": "Jerick McKinnon"
-      },
-      {
-        "player_id": "2197",
-        "full_name": "Brandin Cooks"
-      },
-      {
-        "player_id": "2449",
-        "full_name": "Stefon Diggs"
-      },
-      {
-        "player_id": "3198",
-        "full_name": "Derrick Henry"
-      },
-      {
-        "player_id": "3199",
-        "full_name": "Michael Thomas"
-      },
-      {
-        "player_id": "3286",
-        "full_name": "Demarcus Robinson"
-      },
-      {
-        "player_id": "4018",
-        "full_name": "Joe Mixon"
-      },
-      {
-        "player_id": "4046",
-        "full_name": "Patrick Mahomes"
-      },
-      {
-        "player_id": "4082",
-        "full_name": "Curtis Samuel"
-      },
-      {
-        "player_id": "4098",
-        "full_name": "Kareem Hunt"
-      },
-      {
-        "player_id": "4137",
-        "full_name": "James Conner"
-      },
-      {
-        "player_id": "4217",
-        "full_name": "George Kittle"
-      },
-      {
-        "player_id": "4663",
-        "full_name": "Austin Ekeler"
-      },
-      {
-        "player_id": "4950",
-        "full_name": "Christian Kirk"
-      },
-      {
-        "player_id": "5872",
-        "full_name": "Deebo Samuel"
-      },
-      {
-        "player_id": "6826",
-        "full_name": "Cole Kmet"
-      },
-      {
-        "player_id": "6945",
-        "full_name": "Antonio Gibson"
-      },
-      {
-        "player_id": "7090",
-        "full_name": "Darnell Mooney"
-      },
-      {
-        "player_id": "8151",
-        "full_name": "Kenneth Walker"
-      },
-      {
-        "player_id": "8205",
-        "full_name": "Isiah Pacheco"
-      },
-      {
-        "player_id": "9504",
-        "full_name": "Kayshon Boutte"
-      },
-      {
-        "player_id": "96",
-        "full_name": "Aaron Rodgers"
-      }
-    ],
-    "starters": [
-      {
-        "player_id": "4046",
-        "full_name": "Patrick Mahomes"
-      },
-      {
-        "player_id": "4663",
-        "full_name": "Austin Ekeler"
-      },
-      {
-        "player_id": "4098",
-        "full_name": "Kareem Hunt"
-      },
-      {
-        "player_id": "2449",
-        "full_name": "Stefon Diggs"
-      },
-      {
-        "player_id": "4082",
-        "full_name": "Curtis Samuel"
-      },
-      {
-        "player_id": "3286",
-        "full_name": "Demarcus Robinson"
-      },
-      {
-        "player_id": "4217",
-        "full_name": "George Kittle"
-      },
-      {
-        "player_id": "4137",
-        "full_name": "James Conner"
-      },
-      {
-        "player_id": "3198",
-        "full_name": "Derrick Henry"
-      },
-      {
-        "player_id": "4018",
-        "full_name": "Joe Mixon"
-      },
-      {
-        "player_id": "5872",
-        "full_name": "Deebo Samuel"
-      },
-      {
-        "player_id": "19",
-        "full_name": "Joe Flacco"
-      }
-    ],
-    "reserve": [],
-    "bench": [
-      {
-        "player_id": "2028",
-        "full_name": "Derek Carr"
-      },
-      {
-        "player_id": "2078",
-        "full_name": "Odell Beckham"
-      },
-      {
-        "player_id": "2161",
-        "full_name": "Jerick McKinnon"
-      },
-      {
-        "player_id": "2197",
-        "full_name": "Brandin Cooks"
-      },
-      {
-        "player_id": "3199",
-        "full_name": "Michael Thomas"
-      },
-      {
-        "player_id": "4950",
-        "full_name": "Christian Kirk"
-      },
-      {
-        "player_id": "6826",
-        "full_name": "Cole Kmet"
-      },
-      {
-        "player_id": "6945",
-        "full_name": "Antonio Gibson"
-      },
-      {
-        "player_id": "7090",
-        "full_name": "Darnell Mooney"
-      },
-      {
-        "player_id": "8151",
-        "full_name": "Kenneth Walker"
-      },
-      {
-        "player_id": "8205",
-        "full_name": "Isiah Pacheco"
-      },
-      {
-        "player_id": "96",
-        "full_name": "Aaron Rodgers"
-      }
-    ],
-    "bench_count": 12,
-    "taxi": [
-      {
-        "player_id": "10867",
-        "full_name": "Jake Bobo"
-      },
-      {
-        "player_id": "10983",
-        "full_name": "Sean Clifford"
-      },
-      {
-        "player_id": "9504",
-        "full_name": "Kayshon Boutte"
-      }
-    ]
-  },
-  "cstroh": {
-    "owner_id": "545729168853360640",
-    "roster_id": 8,
-    "players": [
-      {
-        "player_id": "10219",
-        "full_name": "Chris Rodriguez"
-      },
-      {
-        "player_id": "10222",
-        "full_name": "Jayden Reed"
-      },
-      {
-        "player_id": "11439",
-        "full_name": "Jaleel McLaughlin"
-      },
-      {
-        "player_id": "4066",
-        "full_name": "Evan Engram"
-      },
-      {
-        "player_id": "6797",
-        "full_name": "Justin Herbert"
-      },
-      {
-        "player_id": "6804",
-        "full_name": "Jordan Love"
-      },
-      {
-        "player_id": "6819",
-        "full_name": "Michael Pittman"
-      },
-      {
-        "player_id": "7526",
-        "full_name": "Jaylen Waddle"
-      },
-      {
-        "player_id": "7562",
-        "full_name": "Tutu Atwell"
-      },
-      {
-        "player_id": "7569",
-        "full_name": "Nico Collins"
-      },
-      {
-        "player_id": "7588",
-        "full_name": "Javonte Williams"
-      },
-      {
-        "player_id": "7670",
-        "full_name": "Joshua Palmer"
-      },
-      {
-        "player_id": "8111",
-        "full_name": "Cade Otton"
-      },
-      {
-        "player_id": "8112",
-        "full_name": "Drake London"
-      },
-      {
-        "player_id": "8129",
-        "full_name": "Dameon Pierce"
-      },
-      {
-        "player_id": "8137",
-        "full_name": "George Pickens"
-      },
-      {
-        "player_id": "8139",
-        "full_name": "Zamir White"
-      },
-      {
-        "player_id": "8148",
-        "full_name": "Jameson Williams"
-      },
-      {
-        "player_id": "8153",
-        "full_name": "Isaiah Spiller"
-      },
-      {
-        "player_id": "8162",
-        "full_name": "Sam Howell"
-      },
-      {
-        "player_id": "8195",
-        "full_name": "Ronnie Rivers"
-      },
-      {
-        "player_id": "9221",
-        "full_name": "Jahmyr Gibbs"
-      },
-      {
-        "player_id": "9229",
-        "full_name": "Anthony Richardson"
-      },
-      {
-        "player_id": "9486",
-        "full_name": "Dontayvion Wicks"
-      },
-      {
-        "player_id": "9490",
-        "full_name": "Tyler Scott"
-      },
-      {
-        "player_id": "9493",
-        "full_name": "Puka Nacua"
-      },
-      {
-        "player_id": "9494",
-        "full_name": "Marvin Mims"
-      },
-      {
-        "player_id": "9497",
-        "full_name": "Jalin Hyatt"
-      },
-      {
-        "player_id": "9511",
-        "full_name": "Keaton Mitchell"
-      },
-      {
-        "player_id": "9753",
-        "full_name": "Zach Charbonnet"
-      },
-      {
-        "player_id": "9756",
-        "full_name": "Jordan Addison"
-      }
-    ],
-    "starters": [
-      {
-        "player_id": "6804",
-        "full_name": "Jordan Love"
-      },
-      {
-        "player_id": "9221",
-        "full_name": "Jahmyr Gibbs"
-      },
-      {
-        "player_id": "8139",
-        "full_name": "Zamir White"
-      },
-      {
-        "player_id": "6819",
-        "full_name": "Michael Pittman"
-      },
-      {
-        "player_id": "7569",
-        "full_name": "Nico Collins"
-      },
-      {
-        "player_id": "9493",
-        "full_name": "Puka Nacua"
-      },
-      {
-        "player_id": "4066",
-        "full_name": "Evan Engram"
-      },
-      {
-        "player_id": "8112",
-        "full_name": "Drake London"
-      },
-      {
-        "player_id": "8137",
-        "full_name": "George Pickens"
-      },
-      {
-        "player_id": "7526",
-        "full_name": "Jaylen Waddle"
-      },
-      {
-        "player_id": "9756",
-        "full_name": "Jordan Addison"
-      },
-      {
-        "player_id": "9229",
-        "full_name": "Anthony Richardson"
-      }
-    ],
-    "reserve": [
-      {
-        "player_id": "10222",
-        "full_name": "Jayden Reed",
-        "injury_status": null,
-        "is_eligible_for_reserve": false
-      },
-      {
-        "player_id": "9511",
-        "full_name": "Keaton Mitchell",
-        "injury_status": "PUP",
-        "is_eligible_for_reserve": true
-      }
-    ],
-    "bench": [
-      {
-        "player_id": "11439",
-        "full_name": "Jaleel McLaughlin"
-      },
-      {
-        "player_id": "6797",
-        "full_name": "Justin Herbert"
-      },
-      {
-        "player_id": "7562",
-        "full_name": "Tutu Atwell"
-      },
-      {
-        "player_id": "7588",
-        "full_name": "Javonte Williams"
-      },
-      {
-        "player_id": "7670",
-        "full_name": "Joshua Palmer"
-      },
-      {
-        "player_id": "8111",
-        "full_name": "Cade Otton"
-      },
-      {
-        "player_id": "8129",
-        "full_name": "Dameon Pierce"
-      },
-      {
-        "player_id": "8148",
-        "full_name": "Jameson Williams"
-      },
-      {
-        "player_id": "8153",
-        "full_name": "Isaiah Spiller"
-      },
-      {
-        "player_id": "8162",
-        "full_name": "Sam Howell"
-      },
-      {
-        "player_id": "8195",
-        "full_name": "Ronnie Rivers"
-      },
-      {
-        "player_id": "9486",
-        "full_name": "Dontayvion Wicks"
-      },
-      {
-        "player_id": "9494",
-        "full_name": "Marvin Mims"
-      },
-      {
-        "player_id": "9753",
-        "full_name": "Zach Charbonnet"
-      }
-    ],
-    "bench_count": 14,
-    "taxi": [
-      {
-        "player_id": "10219",
-        "full_name": "Chris Rodriguez"
-      },
-      {
-        "player_id": "9490",
-        "full_name": "Tyler Scott"
-      },
-      {
-        "player_id": "9497",
-        "full_name": "Jalin Hyatt"
-      }
-    ]
-  }
+  "drafts": [
+    {
+      "draft_id": "1048178156026433537",
+      "draft_date": "2024-08-26 08:00:00 PDT",
+      "draft_data": []
+    }
+  ]
 }
